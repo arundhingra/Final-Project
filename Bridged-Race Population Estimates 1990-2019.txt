@@ -1,0 +1,1796 @@
+"Notes"	"Yearly July 1st Estimates"	"Yearly July 1st Estimates Code"	"State"	"State Code"	"Race"	"Race Code"	Population
+	"1992"	"1992"	"Alabama"	"01"	"American Indian or Alaska Native"	"1002-5"	17357
+	"1992"	"1992"	"Alabama"	"01"	"Asian or Pacific Islander"	"A-PI"	24350
+	"1992"	"1992"	"Alabama"	"01"	"Black or African American"	"2054-5"	1060627
+	"1992"	"1992"	"Alabama"	"01"	"White"	"2106-3"	3051680
+"Total"	"1992"	"1992"	"Alabama"	"01"			4154014
+	"1992"	"1992"	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	92191
+	"1992"	"1992"	"Alaska"	"02"	"Asian or Pacific Islander"	"A-PI"	22509
+	"1992"	"1992"	"Alaska"	"02"	"Black or African American"	"2054-5"	24744
+	"1992"	"1992"	"Alaska"	"02"	"White"	"2106-3"	449292
+"Total"	"1992"	"1992"	"Alaska"	"02"			588736
+	"1992"	"1992"	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	229298
+	"1992"	"1992"	"Arizona"	"04"	"Asian or Pacific Islander"	"A-PI"	68132
+	"1992"	"1992"	"Arizona"	"04"	"Black or African American"	"2054-5"	127617
+	"1992"	"1992"	"Arizona"	"04"	"White"	"2106-3"	3490693
+"Total"	"1992"	"1992"	"Arizona"	"04"			3915740
+	"1992"	"1992"	"Arkansas"	"05"	"American Indian or Alaska Native"	"1002-5"	13177
+	"1992"	"1992"	"Arkansas"	"05"	"Asian or Pacific Islander"	"A-PI"	13243
+	"1992"	"1992"	"Arkansas"	"05"	"Black or African American"	"2054-5"	386732
+	"1992"	"1992"	"Arkansas"	"05"	"White"	"2106-3"	2002832
+"Total"	"1992"	"1992"	"Arkansas"	"05"			2415984
+	"1992"	"1992"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	320375
+	"1992"	"1992"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	3271912
+	"1992"	"1992"	"California"	"06"	"Black or African American"	"2054-5"	2394610
+	"1992"	"1992"	"California"	"06"	"White"	"2106-3"	24987762
+"Total"	"1992"	"1992"	"California"	"06"			30974659
+	"1992"	"1992"	"Colorado"	"08"	"American Indian or Alaska Native"	"1002-5"	34617
+	"1992"	"1992"	"Colorado"	"08"	"Asian or Pacific Islander"	"A-PI"	69730
+	"1992"	"1992"	"Colorado"	"08"	"Black or African American"	"2054-5"	147912
+	"1992"	"1992"	"Colorado"	"08"	"White"	"2106-3"	3243680
+"Total"	"1992"	"1992"	"Colorado"	"08"			3495939
+	"1992"	"1992"	"Connecticut"	"09"	"American Indian or Alaska Native"	"1002-5"	7777
+	"1992"	"1992"	"Connecticut"	"09"	"Asian or Pacific Islander"	"A-PI"	60299
+	"1992"	"1992"	"Connecticut"	"09"	"Black or African American"	"2054-5"	296477
+	"1992"	"1992"	"Connecticut"	"09"	"White"	"2106-3"	2936159
+"Total"	"1992"	"1992"	"Connecticut"	"09"			3300712
+	"1992"	"1992"	"Delaware"	"10"	"American Indian or Alaska Native"	"1002-5"	2363
+	"1992"	"1992"	"Delaware"	"10"	"Asian or Pacific Islander"	"A-PI"	11140
+	"1992"	"1992"	"Delaware"	"10"	"Black or African American"	"2054-5"	122479
+	"1992"	"1992"	"Delaware"	"10"	"White"	"2106-3"	558943
+"Total"	"1992"	"1992"	"Delaware"	"10"			694925
+	"1992"	"1992"	"Florida"	"12"	"American Indian or Alaska Native"	"1002-5"	42022
+	"1992"	"1992"	"Florida"	"12"	"Asian or Pacific Islander"	"A-PI"	187239
+	"1992"	"1992"	"Florida"	"12"	"Black or African American"	"2054-5"	1933726
+	"1992"	"1992"	"Florida"	"12"	"White"	"2106-3"	11487566
+"Total"	"1992"	"1992"	"Florida"	"12"			13650553
+	"1992"	"1992"	"Georgia"	"13"	"American Indian or Alaska Native"	"1002-5"	13925
+	"1992"	"1992"	"Georgia"	"13"	"Asian or Pacific Islander"	"A-PI"	93374
+	"1992"	"1992"	"Georgia"	"13"	"Black or African American"	"2054-5"	1874193
+	"1992"	"1992"	"Georgia"	"13"	"White"	"2106-3"	4835711
+"Total"	"1992"	"1992"	"Georgia"	"13"			6817203
+	"1992"	"1992"	"Hawaii"	"15"	"American Indian or Alaska Native"	"1002-5"	5379
+	"1992"	"1992"	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	733318
+	"1992"	"1992"	"Hawaii"	"15"	"Black or African American"	"2054-5"	32746
+	"1992"	"1992"	"Hawaii"	"15"	"White"	"2106-3"	387170
+"Total"	"1992"	"1992"	"Hawaii"	"15"			1158613
+	"1992"	"1992"	"Idaho"	"16"	"American Indian or Alaska Native"	"1002-5"	15092
+	"1992"	"1992"	"Idaho"	"16"	"Asian or Pacific Islander"	"A-PI"	10123
+	"1992"	"1992"	"Idaho"	"16"	"Black or African American"	"2054-5"	4075
+	"1992"	"1992"	"Idaho"	"16"	"White"	"2106-3"	1042395
+"Total"	"1992"	"1992"	"Idaho"	"16"			1071685
+	"1992"	"1992"	"Illinois"	"17"	"American Indian or Alaska Native"	"1002-5"	26019
+	"1992"	"1992"	"Illinois"	"17"	"Asian or Pacific Islander"	"A-PI"	327165
+	"1992"	"1992"	"Illinois"	"17"	"Black or African American"	"2054-5"	1770909
+	"1992"	"1992"	"Illinois"	"17"	"White"	"2106-3"	9570091
+"Total"	"1992"	"1992"	"Illinois"	"17"			11694184
+	"1992"	"1992"	"Indiana"	"18"	"American Indian or Alaska Native"	"1002-5"	12756
+	"1992"	"1992"	"Indiana"	"18"	"Asian or Pacific Islander"	"A-PI"	41583
+	"1992"	"1992"	"Indiana"	"18"	"Black or African American"	"2054-5"	455577
+	"1992"	"1992"	"Indiana"	"18"	"White"	"2106-3"	5164631
+"Total"	"1992"	"1992"	"Indiana"	"18"			5674547
+	"1992"	"1992"	"Iowa"	"19"	"American Indian or Alaska Native"	"1002-5"	7150
+	"1992"	"1992"	"Iowa"	"19"	"Asian or Pacific Islander"	"A-PI"	28196
+	"1992"	"1992"	"Iowa"	"19"	"Black or African American"	"2054-5"	52209
+	"1992"	"1992"	"Iowa"	"19"	"White"	"2106-3"	2730846
+"Total"	"1992"	"1992"	"Iowa"	"19"			2818401
+	"1992"	"1992"	"Kansas"	"20"	"American Indian or Alaska Native"	"1002-5"	23313
+	"1992"	"1992"	"Kansas"	"20"	"Asian or Pacific Islander"	"A-PI"	35277
+	"1992"	"1992"	"Kansas"	"20"	"Black or African American"	"2054-5"	151693
+	"1992"	"1992"	"Kansas"	"20"	"White"	"2106-3"	2322111
+"Total"	"1992"	"1992"	"Kansas"	"20"			2532394
+	"1992"	"1992"	"Kentucky"	"21"	"American Indian or Alaska Native"	"1002-5"	4883
+	"1992"	"1992"	"Kentucky"	"21"	"Asian or Pacific Islander"	"A-PI"	19369
+	"1992"	"1992"	"Kentucky"	"21"	"Black or African American"	"2054-5"	271847
+	"1992"	"1992"	"Kentucky"	"21"	"White"	"2106-3"	3469370
+"Total"	"1992"	"1992"	"Kentucky"	"21"			3765469
+	"1992"	"1992"	"Louisiana"	"22"	"American Indian or Alaska Native"	"1002-5"	19578
+	"1992"	"1992"	"Louisiana"	"22"	"Asian or Pacific Islander"	"A-PI"	45684
+	"1992"	"1992"	"Louisiana"	"22"	"Black or African American"	"2054-5"	1345921
+	"1992"	"1992"	"Louisiana"	"22"	"White"	"2106-3"	2881820
+"Total"	"1992"	"1992"	"Louisiana"	"22"			4293003
+	"1992"	"1992"	"Maine"	"23"	"American Indian or Alaska Native"	"1002-5"	6330
+	"1992"	"1992"	"Maine"	"23"	"Asian or Pacific Islander"	"A-PI"	7326
+	"1992"	"1992"	"Maine"	"23"	"Black or African American"	"2054-5"	5284
+	"1992"	"1992"	"Maine"	"23"	"White"	"2106-3"	1219568
+"Total"	"1992"	"1992"	"Maine"	"23"			1238508
+	"1992"	"1992"	"Maryland"	"24"	"American Indian or Alaska Native"	"1002-5"	14085
+	"1992"	"1992"	"Maryland"	"24"	"Asian or Pacific Islander"	"A-PI"	159972
+	"1992"	"1992"	"Maryland"	"24"	"Black or African American"	"2054-5"	1270383
+	"1992"	"1992"	"Maryland"	"24"	"White"	"2106-3"	3478928
+"Total"	"1992"	"1992"	"Maryland"	"24"			4923368
+	"1992"	"1992"	"Massachusetts"	"25"	"American Indian or Alaska Native"	"1002-5"	14115
+	"1992"	"1992"	"Massachusetts"	"25"	"Asian or Pacific Islander"	"A-PI"	167341
+	"1992"	"1992"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	347268
+	"1992"	"1992"	"Massachusetts"	"25"	"White"	"2106-3"	5499985
+"Total"	"1992"	"1992"	"Massachusetts"	"25"			6028709
+	"1992"	"1992"	"Michigan"	"26"	"American Indian or Alaska Native"	"1002-5"	59991
+	"1992"	"1992"	"Michigan"	"26"	"Asian or Pacific Islander"	"A-PI"	119348
+	"1992"	"1992"	"Michigan"	"26"	"Black or African American"	"2054-5"	1345171
+	"1992"	"1992"	"Michigan"	"26"	"White"	"2106-3"	7954555
+"Total"	"1992"	"1992"	"Michigan"	"26"			9479065
+	"1992"	"1992"	"Minnesota"	"27"	"American Indian or Alaska Native"	"1002-5"	52728
+	"1992"	"1992"	"Minnesota"	"27"	"Asian or Pacific Islander"	"A-PI"	91705
+	"1992"	"1992"	"Minnesota"	"27"	"Black or African American"	"2054-5"	111100
+	"1992"	"1992"	"Minnesota"	"27"	"White"	"2106-3"	4240039
+"Total"	"1992"	"1992"	"Minnesota"	"27"			4495572
+	"1992"	"1992"	"Mississippi"	"28"	"American Indian or Alaska Native"	"1002-5"	8093
+	"1992"	"1992"	"Mississippi"	"28"	"Asian or Pacific Islander"	"A-PI"	13180
+	"1992"	"1992"	"Mississippi"	"28"	"Black or African American"	"2054-5"	946494
+	"1992"	"1992"	"Mississippi"	"28"	"White"	"2106-3"	1655967
+"Total"	"1992"	"1992"	"Mississippi"	"28"			2623734
+	"1992"	"1992"	"Missouri"	"29"	"American Indian or Alaska Native"	"1002-5"	20727
+	"1992"	"1992"	"Missouri"	"29"	"Asian or Pacific Islander"	"A-PI"	47224
+	"1992"	"1992"	"Missouri"	"29"	"Black or African American"	"2054-5"	570748
+	"1992"	"1992"	"Missouri"	"29"	"White"	"2106-3"	4578402
+"Total"	"1992"	"1992"	"Missouri"	"29"			5217101
+	"1992"	"1992"	"Montana"	"30"	"American Indian or Alaska Native"	"1002-5"	49792
+	"1992"	"1992"	"Montana"	"30"	"Asian or Pacific Islander"	"A-PI"	4088
+	"1992"	"1992"	"Montana"	"30"	"Black or African American"	"2054-5"	2321
+	"1992"	"1992"	"Montana"	"30"	"White"	"2106-3"	769569
+"Total"	"1992"	"1992"	"Montana"	"30"			825770
+	"1992"	"1992"	"Nebraska"	"31"	"American Indian or Alaska Native"	"1002-5"	12645
+	"1992"	"1992"	"Nebraska"	"31"	"Asian or Pacific Islander"	"A-PI"	14183
+	"1992"	"1992"	"Nebraska"	"31"	"Black or African American"	"2054-5"	60350
+	"1992"	"1992"	"Nebraska"	"31"	"White"	"2106-3"	1524509
+"Total"	"1992"	"1992"	"Nebraska"	"31"			1611687
+	"1992"	"1992"	"Nevada"	"32"	"American Indian or Alaska Native"	"1002-5"	23028
+	"1992"	"1992"	"Nevada"	"32"	"Asian or Pacific Islander"	"A-PI"	49212
+	"1992"	"1992"	"Nevada"	"32"	"Black or African American"	"2054-5"	93558
+	"1992"	"1992"	"Nevada"	"32"	"White"	"2106-3"	1185569
+"Total"	"1992"	"1992"	"Nevada"	"32"			1351367
+	"1992"	"1992"	"New Hampshire"	"33"	"American Indian or Alaska Native"	"1002-5"	2140
+	"1992"	"1992"	"New Hampshire"	"33"	"Asian or Pacific Islander"	"A-PI"	10184
+	"1992"	"1992"	"New Hampshire"	"33"	"Black or African American"	"2054-5"	6985
+	"1992"	"1992"	"New Hampshire"	"33"	"White"	"2106-3"	1098475
+"Total"	"1992"	"1992"	"New Hampshire"	"33"			1117784
+	"1992"	"1992"	"New Jersey"	"34"	"American Indian or Alaska Native"	"1002-5"	17674
+	"1992"	"1992"	"New Jersey"	"34"	"Asian or Pacific Islander"	"A-PI"	322198
+	"1992"	"1992"	"New Jersey"	"34"	"Black or African American"	"2054-5"	1120104
+	"1992"	"1992"	"New Jersey"	"34"	"White"	"2106-3"	6420532
+"Total"	"1992"	"1992"	"New Jersey"	"34"			7880508
+	"1992"	"1992"	"New Mexico"	"35"	"American Indian or Alaska Native"	"1002-5"	148250
+	"1992"	"1992"	"New Mexico"	"35"	"Asian or Pacific Islander"	"A-PI"	16927
+	"1992"	"1992"	"New Mexico"	"35"	"Black or African American"	"2054-5"	35471
+	"1992"	"1992"	"New Mexico"	"35"	"White"	"2106-3"	1394794
+"Total"	"1992"	"1992"	"New Mexico"	"35"			1595442
+	"1992"	"1992"	"New York"	"36"	"American Indian or Alaska Native"	"1002-5"	74358
+	"1992"	"1992"	"New York"	"36"	"Asian or Pacific Islander"	"A-PI"	816026
+	"1992"	"1992"	"New York"	"36"	"Black or African American"	"2054-5"	3159095
+	"1992"	"1992"	"New York"	"36"	"White"	"2106-3"	14197174
+"Total"	"1992"	"1992"	"New York"	"36"			18246653
+	"1992"	"1992"	"North Carolina"	"37"	"American Indian or Alaska Native"	"1002-5"	83566
+	"1992"	"1992"	"North Carolina"	"37"	"Asian or Pacific Islander"	"A-PI"	62257
+	"1992"	"1992"	"North Carolina"	"37"	"Black or African American"	"2054-5"	1536007
+	"1992"	"1992"	"North Carolina"	"37"	"White"	"2106-3"	5215384
+"Total"	"1992"	"1992"	"North Carolina"	"37"			6897214
+	"1992"	"1992"	"North Dakota"	"38"	"American Indian or Alaska Native"	"1002-5"	26783
+	"1992"	"1992"	"North Dakota"	"38"	"Asian or Pacific Islander"	"A-PI"	3532
+	"1992"	"1992"	"North Dakota"	"38"	"Black or African American"	"2054-5"	3476
+	"1992"	"1992"	"North Dakota"	"38"	"White"	"2106-3"	604432
+"Total"	"1992"	"1992"	"North Dakota"	"38"			638223
+	"1992"	"1992"	"Ohio"	"39"	"American Indian or Alaska Native"	"1002-5"	21708
+	"1992"	"1992"	"Ohio"	"39"	"Asian or Pacific Islander"	"A-PI"	102827
+	"1992"	"1992"	"Ohio"	"39"	"Black or African American"	"2054-5"	1214495
+	"1992"	"1992"	"Ohio"	"39"	"White"	"2106-3"	9690401
+"Total"	"1992"	"1992"	"Ohio"	"39"			11029431
+	"1992"	"1992"	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	267461
+	"1992"	"1992"	"Oklahoma"	"40"	"Asian or Pacific Islander"	"A-PI"	37276
+	"1992"	"1992"	"Oklahoma"	"40"	"Black or African American"	"2054-5"	247526
+	"1992"	"1992"	"Oklahoma"	"40"	"White"	"2106-3"	2668254
+"Total"	"1992"	"1992"	"Oklahoma"	"40"			3220517
+	"1992"	"1992"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	43758
+	"1992"	"1992"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	81072
+	"1992"	"1992"	"Oregon"	"41"	"Black or African American"	"2054-5"	51515
+	"1992"	"1992"	"Oregon"	"41"	"White"	"2106-3"	2815410
+"Total"	"1992"	"1992"	"Oregon"	"41"			2991755
+	"1992"	"1992"	"Pennsylvania"	"42"	"American Indian or Alaska Native"	"1002-5"	15781
+	"1992"	"1992"	"Pennsylvania"	"42"	"Asian or Pacific Islander"	"A-PI"	160778
+	"1992"	"1992"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	1156140
+	"1992"	"1992"	"Pennsylvania"	"42"	"White"	"2106-3"	10716751
+"Total"	"1992"	"1992"	"Pennsylvania"	"42"			12049450
+	"1992"	"1992"	"Rhode Island"	"44"	"American Indian or Alaska Native"	"1002-5"	4463
+	"1992"	"1992"	"Rhode Island"	"44"	"Asian or Pacific Islander"	"A-PI"	20520
+	"1992"	"1992"	"Rhode Island"	"44"	"Black or African American"	"2054-5"	47047
+	"1992"	"1992"	"Rhode Island"	"44"	"White"	"2106-3"	940551
+"Total"	"1992"	"1992"	"Rhode Island"	"44"			1012581
+	"1992"	"1992"	"South Carolina"	"45"	"American Indian or Alaska Native"	"1002-5"	8746
+	"1992"	"1992"	"South Carolina"	"45"	"Asian or Pacific Islander"	"A-PI"	24432
+	"1992"	"1992"	"South Carolina"	"45"	"Black or African American"	"2054-5"	1089628
+	"1992"	"1992"	"South Carolina"	"45"	"White"	"2106-3"	2497658
+"Total"	"1992"	"1992"	"South Carolina"	"45"			3620464
+	"1992"	"1992"	"South Dakota"	"46"	"American Indian or Alaska Native"	"1002-5"	53349
+	"1992"	"1992"	"South Dakota"	"46"	"Asian or Pacific Islander"	"A-PI"	3282
+	"1992"	"1992"	"South Dakota"	"46"	"Black or African American"	"2054-5"	3487
+	"1992"	"1992"	"South Dakota"	"46"	"White"	"2106-3"	652683
+"Total"	"1992"	"1992"	"South Dakota"	"46"			712801
+	"1992"	"1992"	"Tennessee"	"47"	"American Indian or Alaska Native"	"1002-5"	10132
+	"1992"	"1992"	"Tennessee"	"47"	"Asian or Pacific Islander"	"A-PI"	36195
+	"1992"	"1992"	"Tennessee"	"47"	"Black or African American"	"2054-5"	818018
+	"1992"	"1992"	"Tennessee"	"47"	"White"	"2106-3"	4185397
+"Total"	"1992"	"1992"	"Tennessee"	"47"			5049742
+	"1992"	"1992"	"Texas"	"48"	"American Indian or Alaska Native"	"1002-5"	81452
+	"1992"	"1992"	"Texas"	"48"	"Asian or Pacific Islander"	"A-PI"	387832
+	"1992"	"1992"	"Texas"	"48"	"Black or African American"	"2054-5"	2140131
+	"1992"	"1992"	"Texas"	"48"	"White"	"2106-3"	15150323
+"Total"	"1992"	"1992"	"Texas"	"48"			17759738
+	"1992"	"1992"	"Utah"	"49"	"American Indian or Alaska Native"	"1002-5"	26787
+	"1992"	"1992"	"Utah"	"49"	"Asian or Pacific Islander"	"A-PI"	39044
+	"1992"	"1992"	"Utah"	"49"	"Black or African American"	"2054-5"	13840
+	"1992"	"1992"	"Utah"	"49"	"White"	"2106-3"	1757128
+"Total"	"1992"	"1992"	"Utah"	"49"			1836799
+	"1992"	"1992"	"Vermont"	"50"	"American Indian or Alaska Native"	"1002-5"	1619
+	"1992"	"1992"	"Vermont"	"50"	"Asian or Pacific Islander"	"A-PI"	3644
+	"1992"	"1992"	"Vermont"	"50"	"Black or African American"	"2054-5"	2220
+	"1992"	"1992"	"Vermont"	"50"	"White"	"2106-3"	565268
+"Total"	"1992"	"1992"	"Vermont"	"50"			572751
+	"1992"	"1992"	"Virginia"	"51"	"American Indian or Alaska Native"	"1002-5"	16014
+	"1992"	"1992"	"Virginia"	"51"	"Asian or Pacific Islander"	"A-PI"	184664
+	"1992"	"1992"	"Virginia"	"51"	"Black or African American"	"2054-5"	1238551
+	"1992"	"1992"	"Virginia"	"51"	"White"	"2106-3"	4975078
+"Total"	"1992"	"1992"	"Virginia"	"51"			6414307
+	"1992"	"1992"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	93266
+	"1992"	"1992"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	250073
+	"1992"	"1992"	"Washington"	"53"	"Black or African American"	"2054-5"	169408
+	"1992"	"1992"	"Washington"	"53"	"White"	"2106-3"	4648010
+"Total"	"1992"	"1992"	"Washington"	"53"			5160757
+	"1992"	"1992"	"West Virginia"	"54"	"American Indian or Alaska Native"	"1002-5"	2115
+	"1992"	"1992"	"West Virginia"	"54"	"Asian or Pacific Islander"	"A-PI"	7803
+	"1992"	"1992"	"West Virginia"	"54"	"Black or African American"	"2054-5"	56046
+	"1992"	"1992"	"West Virginia"	"54"	"White"	"2106-3"	1740487
+"Total"	"1992"	"1992"	"West Virginia"	"54"			1806451
+	"1992"	"1992"	"Wisconsin"	"55"	"American Indian or Alaska Native"	"1002-5"	42172
+	"1992"	"1992"	"Wisconsin"	"55"	"Asian or Pacific Islander"	"A-PI"	61870
+	"1992"	"1992"	"Wisconsin"	"55"	"Black or African American"	"2054-5"	264916
+	"1992"	"1992"	"Wisconsin"	"55"	"White"	"2106-3"	4656440
+"Total"	"1992"	"1992"	"Wisconsin"	"55"			5025398
+	"1992"	"1992"	"Wyoming"	"56"	"American Indian or Alaska Native"	"1002-5"	10100
+	"1992"	"1992"	"Wyoming"	"56"	"Asian or Pacific Islander"	"A-PI"	2682
+	"1992"	"1992"	"Wyoming"	"56"	"Black or African American"	"2054-5"	3865
+	"1992"	"1992"	"Wyoming"	"56"	"White"	"2106-3"	449604
+"Total"	"1992"	"1992"	"Wyoming"	"56"			466251
+"Total"	"1992"	"1992"					255916659
+	"1996"	"1996"	"Alabama"	"01"	"American Indian or Alaska Native"	"1002-5"	20493
+	"1996"	"1996"	"Alabama"	"01"	"Asian or Pacific Islander"	"A-PI"	30557
+	"1996"	"1996"	"Alabama"	"01"	"Black or African American"	"2054-5"	1125093
+	"1996"	"1996"	"Alabama"	"01"	"White"	"2106-3"	3154959
+"Total"	"1996"	"1996"	"Alabama"	"01"			4331102
+	"1996"	"1996"	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	99390
+	"1996"	"1996"	"Alaska"	"02"	"Asian or Pacific Islander"	"A-PI"	26947
+	"1996"	"1996"	"Alaska"	"02"	"Black or African American"	"2054-5"	24463
+	"1996"	"1996"	"Alaska"	"02"	"White"	"2106-3"	457769
+"Total"	"1996"	"1996"	"Alaska"	"02"			608569
+	"1996"	"1996"	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	259560
+	"1996"	"1996"	"Arizona"	"04"	"Asian or Pacific Islander"	"A-PI"	93555
+	"1996"	"1996"	"Arizona"	"04"	"Black or African American"	"2054-5"	157868
+	"1996"	"1996"	"Arizona"	"04"	"White"	"2106-3"	4075957
+"Total"	"1996"	"1996"	"Arizona"	"04"			4586940
+	"1996"	"1996"	"Arkansas"	"05"	"American Indian or Alaska Native"	"1002-5"	15325
+	"1996"	"1996"	"Arkansas"	"05"	"Asian or Pacific Islander"	"A-PI"	18264
+	"1996"	"1996"	"Arkansas"	"05"	"Black or African American"	"2054-5"	411450
+	"1996"	"1996"	"Arkansas"	"05"	"White"	"2106-3"	2127070
+"Total"	"1996"	"1996"	"Arkansas"	"05"			2572109
+	"1996"	"1996"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	386136
+	"1996"	"1996"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	3713344
+	"1996"	"1996"	"California"	"06"	"Black or African American"	"2054-5"	2434897
+	"1996"	"1996"	"California"	"06"	"White"	"2106-3"	25484457
+"Total"	"1996"	"1996"	"California"	"06"			32018834
+	"1996"	"1996"	"Colorado"	"08"	"American Indian or Alaska Native"	"1002-5"	44062
+	"1996"	"1996"	"Colorado"	"08"	"Asian or Pacific Islander"	"A-PI"	89343
+	"1996"	"1996"	"Colorado"	"08"	"Black or African American"	"2054-5"	166672
+	"1996"	"1996"	"Colorado"	"08"	"White"	"2106-3"	3619895
+"Total"	"1996"	"1996"	"Colorado"	"08"			3919972
+	"1996"	"1996"	"Connecticut"	"09"	"American Indian or Alaska Native"	"1002-5"	9867
+	"1996"	"1996"	"Connecticut"	"09"	"Asian or Pacific Islander"	"A-PI"	74664
+	"1996"	"1996"	"Connecticut"	"09"	"Black or African American"	"2054-5"	319188
+	"1996"	"1996"	"Connecticut"	"09"	"White"	"2106-3"	2932966
+"Total"	"1996"	"1996"	"Connecticut"	"09"			3336685
+	"1996"	"1996"	"Delaware"	"10"	"American Indian or Alaska Native"	"1002-5"	2771
+	"1996"	"1996"	"Delaware"	"10"	"Asian or Pacific Islander"	"A-PI"	13995
+	"1996"	"1996"	"Delaware"	"10"	"Black or African American"	"2054-5"	139519
+	"1996"	"1996"	"Delaware"	"10"	"White"	"2106-3"	584692
+"Total"	"1996"	"1996"	"Delaware"	"10"			740977
+	"1996"	"1996"	"Florida"	"12"	"American Indian or Alaska Native"	"1002-5"	51939
+	"1996"	"1996"	"Florida"	"12"	"Asian or Pacific Islander"	"A-PI"	251653
+	"1996"	"1996"	"Florida"	"12"	"Black or African American"	"2054-5"	2206135
+	"1996"	"1996"	"Florida"	"12"	"White"	"2106-3"	12343633
+"Total"	"1996"	"1996"	"Florida"	"12"			14853360
+	"1996"	"1996"	"Georgia"	"13"	"American Indian or Alaska Native"	"1002-5"	17680
+	"1996"	"1996"	"Georgia"	"13"	"Asian or Pacific Islander"	"A-PI"	137434
+	"1996"	"1996"	"Georgia"	"13"	"Black or African American"	"2054-5"	2132804
+	"1996"	"1996"	"Georgia"	"13"	"White"	"2106-3"	5213151
+"Total"	"1996"	"1996"	"Georgia"	"13"			7501069
+	"1996"	"1996"	"Hawaii"	"15"	"American Indian or Alaska Native"	"1002-5"	5069
+	"1996"	"1996"	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	788529
+	"1996"	"1996"	"Hawaii"	"15"	"Black or African American"	"2054-5"	33121
+	"1996"	"1996"	"Hawaii"	"15"	"White"	"2106-3"	377036
+"Total"	"1996"	"1996"	"Hawaii"	"15"			1203755
+	"1996"	"1996"	"Idaho"	"16"	"American Indian or Alaska Native"	"1002-5"	16947
+	"1996"	"1996"	"Idaho"	"16"	"Asian or Pacific Islander"	"A-PI"	12121
+	"1996"	"1996"	"Idaho"	"16"	"Black or African American"	"2054-5"	5366
+	"1996"	"1996"	"Idaho"	"16"	"White"	"2106-3"	1168649
+"Total"	"1996"	"1996"	"Idaho"	"16"			1203083
+	"1996"	"1996"	"Illinois"	"17"	"American Indian or Alaska Native"	"1002-5"	32570
+	"1996"	"1996"	"Illinois"	"17"	"Asian or Pacific Islander"	"A-PI"	391980
+	"1996"	"1996"	"Illinois"	"17"	"Black or African American"	"2054-5"	1868813
+	"1996"	"1996"	"Illinois"	"17"	"White"	"2106-3"	9808634
+"Total"	"1996"	"1996"	"Illinois"	"17"			12101997
+	"1996"	"1996"	"Indiana"	"18"	"American Indian or Alaska Native"	"1002-5"	14722
+	"1996"	"1996"	"Indiana"	"18"	"Asian or Pacific Islander"	"A-PI"	52776
+	"1996"	"1996"	"Indiana"	"18"	"Black or African American"	"2054-5"	495311
+	"1996"	"1996"	"Indiana"	"18"	"White"	"2106-3"	5343204
+"Total"	"1996"	"1996"	"Indiana"	"18"			5906013
+	"1996"	"1996"	"Iowa"	"19"	"American Indian or Alaska Native"	"1002-5"	7870
+	"1996"	"1996"	"Iowa"	"19"	"Asian or Pacific Islander"	"A-PI"	34164
+	"1996"	"1996"	"Iowa"	"19"	"Black or African American"	"2054-5"	59519
+	"1996"	"1996"	"Iowa"	"19"	"White"	"2106-3"	2778447
+"Total"	"1996"	"1996"	"Iowa"	"19"			2880000
+	"1996"	"1996"	"Kansas"	"20"	"American Indian or Alaska Native"	"1002-5"	25999
+	"1996"	"1996"	"Kansas"	"20"	"Asian or Pacific Islander"	"A-PI"	43046
+	"1996"	"1996"	"Kansas"	"20"	"Black or African American"	"2054-5"	157016
+	"1996"	"1996"	"Kansas"	"20"	"White"	"2106-3"	2388493
+"Total"	"1996"	"1996"	"Kansas"	"20"			2614554
+	"1996"	"1996"	"Kentucky"	"21"	"American Indian or Alaska Native"	"1002-5"	6029
+	"1996"	"1996"	"Kentucky"	"21"	"Asian or Pacific Islander"	"A-PI"	25608
+	"1996"	"1996"	"Kentucky"	"21"	"Black or African American"	"2054-5"	287875
+	"1996"	"1996"	"Kentucky"	"21"	"White"	"2106-3"	3600023
+"Total"	"1996"	"1996"	"Kentucky"	"21"			3919535
+	"1996"	"1996"	"Louisiana"	"22"	"American Indian or Alaska Native"	"1002-5"	22795
+	"1996"	"1996"	"Louisiana"	"22"	"Asian or Pacific Islander"	"A-PI"	54038
+	"1996"	"1996"	"Louisiana"	"22"	"Black or African American"	"2054-5"	1421523
+	"1996"	"1996"	"Louisiana"	"22"	"White"	"2106-3"	2900521
+"Total"	"1996"	"1996"	"Louisiana"	"22"			4398877
+	"1996"	"1996"	"Maine"	"23"	"American Indian or Alaska Native"	"1002-5"	6691
+	"1996"	"1996"	"Maine"	"23"	"Asian or Pacific Islander"	"A-PI"	8309
+	"1996"	"1996"	"Maine"	"23"	"Black or African American"	"2054-5"	6001
+	"1996"	"1996"	"Maine"	"23"	"White"	"2106-3"	1228059
+"Total"	"1996"	"1996"	"Maine"	"23"			1249060
+	"1996"	"1996"	"Maryland"	"24"	"American Indian or Alaska Native"	"1002-5"	16614
+	"1996"	"1996"	"Maryland"	"24"	"Asian or Pacific Islander"	"A-PI"	193726
+	"1996"	"1996"	"Maryland"	"24"	"Black or African American"	"2054-5"	1406138
+	"1996"	"1996"	"Maryland"	"24"	"White"	"2106-3"	3495508
+"Total"	"1996"	"1996"	"Maryland"	"24"			5111986
+	"1996"	"1996"	"Massachusetts"	"25"	"American Indian or Alaska Native"	"1002-5"	16738
+	"1996"	"1996"	"Massachusetts"	"25"	"Asian or Pacific Islander"	"A-PI"	209530
+	"1996"	"1996"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	380476
+	"1996"	"1996"	"Massachusetts"	"25"	"White"	"2106-3"	5573012
+"Total"	"1996"	"1996"	"Massachusetts"	"25"			6179756
+	"1996"	"1996"	"Michigan"	"26"	"American Indian or Alaska Native"	"1002-5"	66463
+	"1996"	"1996"	"Michigan"	"26"	"Asian or Pacific Islander"	"A-PI"	152015
+	"1996"	"1996"	"Michigan"	"26"	"Black or African American"	"2054-5"	1416589
+	"1996"	"1996"	"Michigan"	"26"	"White"	"2106-3"	8123578
+"Total"	"1996"	"1996"	"Michigan"	"26"			9758645
+	"1996"	"1996"	"Minnesota"	"27"	"American Indian or Alaska Native"	"1002-5"	56585
+	"1996"	"1996"	"Minnesota"	"27"	"Asian or Pacific Islander"	"A-PI"	119157
+	"1996"	"1996"	"Minnesota"	"27"	"Black or African American"	"2054-5"	147109
+	"1996"	"1996"	"Minnesota"	"27"	"White"	"2106-3"	4389976
+"Total"	"1996"	"1996"	"Minnesota"	"27"			4712827
+	"1996"	"1996"	"Mississippi"	"28"	"American Indian or Alaska Native"	"1002-5"	9340
+	"1996"	"1996"	"Mississippi"	"28"	"Asian or Pacific Islander"	"A-PI"	16362
+	"1996"	"1996"	"Mississippi"	"28"	"Black or African American"	"2054-5"	1004313
+	"1996"	"1996"	"Mississippi"	"28"	"White"	"2106-3"	1718070
+"Total"	"1996"	"1996"	"Mississippi"	"28"			2748085
+	"1996"	"1996"	"Missouri"	"29"	"American Indian or Alaska Native"	"1002-5"	24438
+	"1996"	"1996"	"Missouri"	"29"	"Asian or Pacific Islander"	"A-PI"	58552
+	"1996"	"1996"	"Missouri"	"29"	"Black or African American"	"2054-5"	613411
+	"1996"	"1996"	"Missouri"	"29"	"White"	"2106-3"	4735152
+"Total"	"1996"	"1996"	"Missouri"	"29"			5431553
+	"1996"	"1996"	"Montana"	"30"	"American Indian or Alaska Native"	"1002-5"	54548
+	"1996"	"1996"	"Montana"	"30"	"Asian or Pacific Islander"	"A-PI"	4607
+	"1996"	"1996"	"Montana"	"30"	"Black or African American"	"2054-5"	2929
+	"1996"	"1996"	"Montana"	"30"	"White"	"2106-3"	824170
+"Total"	"1996"	"1996"	"Montana"	"30"			886254
+	"1996"	"1996"	"Nebraska"	"31"	"American Indian or Alaska Native"	"1002-5"	14264
+	"1996"	"1996"	"Nebraska"	"31"	"Asian or Pacific Islander"	"A-PI"	19790
+	"1996"	"1996"	"Nebraska"	"31"	"Black or African American"	"2054-5"	66604
+	"1996"	"1996"	"Nebraska"	"31"	"White"	"2106-3"	1573082
+"Total"	"1996"	"1996"	"Nebraska"	"31"			1673740
+	"1996"	"1996"	"Nevada"	"32"	"American Indian or Alaska Native"	"1002-5"	26403
+	"1996"	"1996"	"Nevada"	"32"	"Asian or Pacific Islander"	"A-PI"	75055
+	"1996"	"1996"	"Nevada"	"32"	"Black or African American"	"2054-5"	119873
+	"1996"	"1996"	"Nevada"	"32"	"White"	"2106-3"	1444989
+"Total"	"1996"	"1996"	"Nevada"	"32"			1666320
+	"1996"	"1996"	"New Hampshire"	"33"	"American Indian or Alaska Native"	"1002-5"	2597
+	"1996"	"1996"	"New Hampshire"	"33"	"Asian or Pacific Islander"	"A-PI"	13171
+	"1996"	"1996"	"New Hampshire"	"33"	"Black or African American"	"2054-5"	8825
+	"1996"	"1996"	"New Hampshire"	"33"	"White"	"2106-3"	1150126
+"Total"	"1996"	"1996"	"New Hampshire"	"33"			1174719
+	"1996"	"1996"	"New Jersey"	"34"	"American Indian or Alaska Native"	"1002-5"	22952
+	"1996"	"1996"	"New Jersey"	"34"	"Asian or Pacific Islander"	"A-PI"	411909
+	"1996"	"1996"	"New Jersey"	"34"	"Black or African American"	"2054-5"	1184891
+	"1996"	"1996"	"New Jersey"	"34"	"White"	"2106-3"	6529844
+"Total"	"1996"	"1996"	"New Jersey"	"34"			8149596
+	"1996"	"1996"	"New Mexico"	"35"	"American Indian or Alaska Native"	"1002-5"	164052
+	"1996"	"1996"	"New Mexico"	"35"	"Asian or Pacific Islander"	"A-PI"	20955
+	"1996"	"1996"	"New Mexico"	"35"	"Black or African American"	"2054-5"	40623
+	"1996"	"1996"	"New Mexico"	"35"	"White"	"2106-3"	1526696
+"Total"	"1996"	"1996"	"New Mexico"	"35"			1752326
+	"1996"	"1996"	"New York"	"36"	"American Indian or Alaska Native"	"1002-5"	94953
+	"1996"	"1996"	"New York"	"36"	"Asian or Pacific Islander"	"A-PI"	983956
+	"1996"	"1996"	"New York"	"36"	"Black or African American"	"2054-5"	3314224
+	"1996"	"1996"	"New York"	"36"	"White"	"2106-3"	14195327
+"Total"	"1996"	"1996"	"New York"	"36"			18588460
+	"1996"	"1996"	"North Carolina"	"37"	"American Indian or Alaska Native"	"1002-5"	94173
+	"1996"	"1996"	"North Carolina"	"37"	"Asian or Pacific Islander"	"A-PI"	91055
+	"1996"	"1996"	"North Carolina"	"37"	"Black or African American"	"2054-5"	1671635
+	"1996"	"1996"	"North Carolina"	"37"	"White"	"2106-3"	5643807
+"Total"	"1996"	"1996"	"North Carolina"	"37"			7500670
+	"1996"	"1996"	"North Dakota"	"38"	"American Indian or Alaska Native"	"1002-5"	29483
+	"1996"	"1996"	"North Dakota"	"38"	"Asian or Pacific Islander"	"A-PI"	3850
+	"1996"	"1996"	"North Dakota"	"38"	"Black or African American"	"2054-5"	3514
+	"1996"	"1996"	"North Dakota"	"38"	"White"	"2106-3"	613535
+"Total"	"1996"	"1996"	"North Dakota"	"38"			650382
+	"1996"	"1996"	"Ohio"	"39"	"American Indian or Alaska Native"	"1002-5"	25633
+	"1996"	"1996"	"Ohio"	"39"	"Asian or Pacific Islander"	"A-PI"	122962
+	"1996"	"1996"	"Ohio"	"39"	"Black or African American"	"2054-5"	1299584
+	"1996"	"1996"	"Ohio"	"39"	"White"	"2106-3"	9794648
+"Total"	"1996"	"1996"	"Ohio"	"39"			11242827
+	"1996"	"1996"	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	289701
+	"1996"	"1996"	"Oklahoma"	"40"	"Asian or Pacific Islander"	"A-PI"	44742
+	"1996"	"1996"	"Oklahoma"	"40"	"Black or African American"	"2054-5"	260826
+	"1996"	"1996"	"Oklahoma"	"40"	"White"	"2106-3"	2744860
+"Total"	"1996"	"1996"	"Oklahoma"	"40"			3340129
+	"1996"	"1996"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	49854
+	"1996"	"1996"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	101251
+	"1996"	"1996"	"Oregon"	"41"	"Black or African American"	"2054-5"	60756
+	"1996"	"1996"	"Oregon"	"41"	"White"	"2106-3"	3035250
+"Total"	"1996"	"1996"	"Oregon"	"41"			3247111
+	"1996"	"1996"	"Pennsylvania"	"42"	"American Indian or Alaska Native"	"1002-5"	18291
+	"1996"	"1996"	"Pennsylvania"	"42"	"Asian or Pacific Islander"	"A-PI"	199268
+	"1996"	"1996"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	1230865
+	"1996"	"1996"	"Pennsylvania"	"42"	"White"	"2106-3"	10772040
+"Total"	"1996"	"1996"	"Pennsylvania"	"42"			12220464
+	"1996"	"1996"	"Rhode Island"	"44"	"American Indian or Alaska Native"	"1002-5"	5302
+	"1996"	"1996"	"Rhode Island"	"44"	"Asian or Pacific Islander"	"A-PI"	23382
+	"1996"	"1996"	"Rhode Island"	"44"	"Black or African American"	"2054-5"	54398
+	"1996"	"1996"	"Rhode Island"	"44"	"White"	"2106-3"	937811
+"Total"	"1996"	"1996"	"Rhode Island"	"44"			1020893
+	"1996"	"1996"	"South Carolina"	"45"	"American Indian or Alaska Native"	"1002-5"	10831
+	"1996"	"1996"	"South Carolina"	"45"	"Asian or Pacific Islander"	"A-PI"	31465
+	"1996"	"1996"	"South Carolina"	"45"	"Black or African American"	"2054-5"	1152086
+	"1996"	"1996"	"South Carolina"	"45"	"White"	"2106-3"	2601818
+"Total"	"1996"	"1996"	"South Carolina"	"45"			3796200
+	"1996"	"1996"	"South Dakota"	"46"	"American Indian or Alaska Native"	"1002-5"	58288
+	"1996"	"1996"	"South Dakota"	"46"	"Asian or Pacific Islander"	"A-PI"	3885
+	"1996"	"1996"	"South Dakota"	"46"	"Black or African American"	"2054-5"	4047
+	"1996"	"1996"	"South Dakota"	"46"	"White"	"2106-3"	675993
+"Total"	"1996"	"1996"	"South Dakota"	"46"			742213
+	"1996"	"1996"	"Tennessee"	"47"	"American Indian or Alaska Native"	"1002-5"	12622
+	"1996"	"1996"	"Tennessee"	"47"	"Asian or Pacific Islander"	"A-PI"	50356
+	"1996"	"1996"	"Tennessee"	"47"	"Black or African American"	"2054-5"	892896
+	"1996"	"1996"	"Tennessee"	"47"	"White"	"2106-3"	4460769
+"Total"	"1996"	"1996"	"Tennessee"	"47"			5416643
+	"1996"	"1996"	"Texas"	"48"	"American Indian or Alaska Native"	"1002-5"	109062
+	"1996"	"1996"	"Texas"	"48"	"Asian or Pacific Islander"	"A-PI"	507137
+	"1996"	"1996"	"Texas"	"48"	"Black or African American"	"2054-5"	2335740
+	"1996"	"1996"	"Texas"	"48"	"White"	"2106-3"	16388403
+"Total"	"1996"	"1996"	"Texas"	"48"			19340342
+	"1996"	"1996"	"Utah"	"49"	"American Indian or Alaska Native"	"1002-5"	30303
+	"1996"	"1996"	"Utah"	"49"	"Asian or Pacific Islander"	"A-PI"	49610
+	"1996"	"1996"	"Utah"	"49"	"Black or African American"	"2054-5"	17828
+	"1996"	"1996"	"Utah"	"49"	"White"	"2106-3"	1970235
+"Total"	"1996"	"1996"	"Utah"	"49"			2067976
+	"1996"	"1996"	"Vermont"	"50"	"American Indian or Alaska Native"	"1002-5"	2051
+	"1996"	"1996"	"Vermont"	"50"	"Asian or Pacific Islander"	"A-PI"	4857
+	"1996"	"1996"	"Vermont"	"50"	"Black or African American"	"2054-5"	3311
+	"1996"	"1996"	"Vermont"	"50"	"White"	"2106-3"	583482
+"Total"	"1996"	"1996"	"Vermont"	"50"			593701
+	"1996"	"1996"	"Virginia"	"51"	"American Indian or Alaska Native"	"1002-5"	18686
+	"1996"	"1996"	"Virginia"	"51"	"Asian or Pacific Islander"	"A-PI"	229915
+	"1996"	"1996"	"Virginia"	"51"	"Black or African American"	"2054-5"	1342874
+	"1996"	"1996"	"Virginia"	"51"	"White"	"2106-3"	5159409
+"Total"	"1996"	"1996"	"Virginia"	"51"			6750884
+	"1996"	"1996"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	102378
+	"1996"	"1996"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	315218
+	"1996"	"1996"	"Washington"	"53"	"Black or African American"	"2054-5"	199460
+	"1996"	"1996"	"Washington"	"53"	"White"	"2106-3"	4952697
+"Total"	"1996"	"1996"	"Washington"	"53"			5569753
+	"1996"	"1996"	"West Virginia"	"54"	"American Indian or Alaska Native"	"1002-5"	2354
+	"1996"	"1996"	"West Virginia"	"54"	"Asian or Pacific Islander"	"A-PI"	8612
+	"1996"	"1996"	"West Virginia"	"54"	"Black or African American"	"2054-5"	59041
+	"1996"	"1996"	"West Virginia"	"54"	"White"	"2106-3"	1752801
+"Total"	"1996"	"1996"	"West Virginia"	"54"			1822808
+	"1996"	"1996"	"Wisconsin"	"55"	"American Indian or Alaska Native"	"1002-5"	47109
+	"1996"	"1996"	"Wisconsin"	"55"	"Asian or Pacific Islander"	"A-PI"	78336
+	"1996"	"1996"	"Wisconsin"	"55"	"Black or African American"	"2054-5"	297086
+	"1996"	"1996"	"Wisconsin"	"55"	"White"	"2106-3"	4807455
+"Total"	"1996"	"1996"	"Wisconsin"	"55"			5229986
+	"1996"	"1996"	"Wyoming"	"56"	"American Indian or Alaska Native"	"1002-5"	10917
+	"1996"	"1996"	"Wyoming"	"56"	"Asian or Pacific Islander"	"A-PI"	2906
+	"1996"	"1996"	"Wyoming"	"56"	"Black or African American"	"2054-5"	4040
+	"1996"	"1996"	"Wyoming"	"56"	"White"	"2106-3"	470304
+"Total"	"1996"	"1996"	"Wyoming"	"56"			488167
+"Total"	"1996"	"1996"					268821907
+	"2000"	"2000"	"Alabama"	"01"	"American Indian or Alaska Native"	"1002-5"	25139
+	"2000"	"2000"	"Alabama"	"01"	"Asian or Pacific Islander"	"A-PI"	36561
+	"2000"	"2000"	"Alabama"	"01"	"Black or African American"	"2054-5"	1170617
+	"2000"	"2000"	"Alabama"	"01"	"White"	"2106-3"	3219856
+"Total"	"2000"	"2000"	"Alabama"	"01"			4452173
+	"2000"	"2000"	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	107966
+	"2000"	"2000"	"Alaska"	"02"	"Asian or Pacific Islander"	"A-PI"	32194
+	"2000"	"2000"	"Alaska"	"02"	"Black or African American"	"2054-5"	26707
+	"2000"	"2000"	"Alaska"	"02"	"White"	"2106-3"	461096
+"Total"	"2000"	"2000"	"Alaska"	"02"			627963
+	"2000"	"2000"	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	280002
+	"2000"	"2000"	"Arizona"	"04"	"Asian or Pacific Islander"	"A-PI"	116826
+	"2000"	"2000"	"Arizona"	"04"	"Black or African American"	"2054-5"	184843
+	"2000"	"2000"	"Arizona"	"04"	"White"	"2106-3"	4578915
+"Total"	"2000"	"2000"	"Arizona"	"04"			5160586
+	"2000"	"2000"	"Arkansas"	"05"	"American Indian or Alaska Native"	"1002-5"	20037
+	"2000"	"2000"	"Arkansas"	"05"	"Asian or Pacific Islander"	"A-PI"	24539
+	"2000"	"2000"	"Arkansas"	"05"	"Black or African American"	"2054-5"	427259
+	"2000"	"2000"	"Arkansas"	"05"	"White"	"2106-3"	2206753
+"Total"	"2000"	"2000"	"Arkansas"	"05"			2678588
+	"2000"	"2000"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	477508
+	"2000"	"2000"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	4175057
+	"2000"	"2000"	"California"	"06"	"Black or African American"	"2054-5"	2523792
+	"2000"	"2000"	"California"	"06"	"White"	"2106-3"	26811620
+"Total"	"2000"	"2000"	"California"	"06"			33987977
+	"2000"	"2000"	"Colorado"	"08"	"American Indian or Alaska Native"	"1002-5"	57949
+	"2000"	"2000"	"Colorado"	"08"	"Asian or Pacific Islander"	"A-PI"	115175
+	"2000"	"2000"	"Colorado"	"08"	"Black or African American"	"2054-5"	189870
+	"2000"	"2000"	"Colorado"	"08"	"White"	"2106-3"	3963927
+"Total"	"2000"	"2000"	"Colorado"	"08"			4326921
+	"2000"	"2000"	"Connecticut"	"09"	"American Indian or Alaska Native"	"1002-5"	12874
+	"2000"	"2000"	"Connecticut"	"09"	"Asian or Pacific Islander"	"A-PI"	93037
+	"2000"	"2000"	"Connecticut"	"09"	"Black or African American"	"2054-5"	349054
+	"2000"	"2000"	"Connecticut"	"09"	"White"	"2106-3"	2956812
+"Total"	"2000"	"2000"	"Connecticut"	"09"			3411777
+	"2000"	"2000"	"Delaware"	"10"	"American Indian or Alaska Native"	"1002-5"	3340
+	"2000"	"2000"	"Delaware"	"10"	"Asian or Pacific Islander"	"A-PI"	18099
+	"2000"	"2000"	"Delaware"	"10"	"Black or African American"	"2054-5"	157960
+	"2000"	"2000"	"Delaware"	"10"	"White"	"2106-3"	606974
+"Total"	"2000"	"2000"	"Delaware"	"10"			786373
+	"2000"	"2000"	"Florida"	"12"	"American Indian or Alaska Native"	"1002-5"	66007
+	"2000"	"2000"	"Florida"	"12"	"Asian or Pacific Islander"	"A-PI"	319911
+	"2000"	"2000"	"Florida"	"12"	"Black or African American"	"2054-5"	2480129
+	"2000"	"2000"	"Florida"	"12"	"White"	"2106-3"	13181468
+"Total"	"2000"	"2000"	"Florida"	"12"			16047515
+	"2000"	"2000"	"Georgia"	"13"	"American Indian or Alaska Native"	"1002-5"	26542
+	"2000"	"2000"	"Georgia"	"13"	"Asian or Pacific Islander"	"A-PI"	195893
+	"2000"	"2000"	"Georgia"	"13"	"Black or African American"	"2054-5"	2410079
+	"2000"	"2000"	"Georgia"	"13"	"White"	"2106-3"	5594789
+"Total"	"2000"	"2000"	"Georgia"	"13"			8227303
+	"2000"	"2000"	"Hawaii"	"15"	"American Indian or Alaska Native"	"1002-5"	4294
+	"2000"	"2000"	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	819877
+	"2000"	"2000"	"Hawaii"	"15"	"Black or African American"	"2054-5"	30408
+	"2000"	"2000"	"Hawaii"	"15"	"White"	"2106-3"	358940
+"Total"	"2000"	"2000"	"Hawaii"	"15"			1213519
+	"2000"	"2000"	"Idaho"	"16"	"American Indian or Alaska Native"	"1002-5"	20681
+	"2000"	"2000"	"Idaho"	"16"	"Asian or Pacific Islander"	"A-PI"	15465
+	"2000"	"2000"	"Idaho"	"16"	"Black or African American"	"2054-5"	7683
+	"2000"	"2000"	"Idaho"	"16"	"White"	"2106-3"	1255601
+"Total"	"2000"	"2000"	"Idaho"	"16"			1299430
+	"2000"	"2000"	"Illinois"	"17"	"American Indian or Alaska Native"	"1002-5"	44175
+	"2000"	"2000"	"Illinois"	"17"	"Asian or Pacific Islander"	"A-PI"	465619
+	"2000"	"2000"	"Illinois"	"17"	"Black or African American"	"2054-5"	1936532
+	"2000"	"2000"	"Illinois"	"17"	"White"	"2106-3"	9987835
+"Total"	"2000"	"2000"	"Illinois"	"17"			12434161
+	"2000"	"2000"	"Indiana"	"18"	"American Indian or Alaska Native"	"1002-5"	19423
+	"2000"	"2000"	"Indiana"	"18"	"Asian or Pacific Islander"	"A-PI"	68820
+	"2000"	"2000"	"Indiana"	"18"	"Black or African American"	"2054-5"	535729
+	"2000"	"2000"	"Indiana"	"18"	"White"	"2106-3"	5467894
+"Total"	"2000"	"2000"	"Indiana"	"18"			6091866
+	"2000"	"2000"	"Iowa"	"19"	"American Indian or Alaska Native"	"1002-5"	10382
+	"2000"	"2000"	"Iowa"	"19"	"Asian or Pacific Islander"	"A-PI"	40863
+	"2000"	"2000"	"Iowa"	"19"	"Black or African American"	"2054-5"	70592
+	"2000"	"2000"	"Iowa"	"19"	"White"	"2106-3"	2807230
+"Total"	"2000"	"2000"	"Iowa"	"19"			2929067
+	"2000"	"2000"	"Kansas"	"20"	"American Indian or Alaska Native"	"1002-5"	30885
+	"2000"	"2000"	"Kansas"	"20"	"Asian or Pacific Islander"	"A-PI"	53613
+	"2000"	"2000"	"Kansas"	"20"	"Black or African American"	"2054-5"	168056
+	"2000"	"2000"	"Kansas"	"20"	"White"	"2106-3"	2441127
+"Total"	"2000"	"2000"	"Kansas"	"20"			2693681
+	"2000"	"2000"	"Kentucky"	"21"	"American Indian or Alaska Native"	"1002-5"	9426
+	"2000"	"2000"	"Kentucky"	"21"	"Asian or Pacific Islander"	"A-PI"	34637
+	"2000"	"2000"	"Kentucky"	"21"	"Black or African American"	"2054-5"	309072
+	"2000"	"2000"	"Kentucky"	"21"	"White"	"2106-3"	3695886
+"Total"	"2000"	"2000"	"Kentucky"	"21"			4049021
+	"2000"	"2000"	"Louisiana"	"22"	"American Indian or Alaska Native"	"1002-5"	27979
+	"2000"	"2000"	"Louisiana"	"22"	"Asian or Pacific Islander"	"A-PI"	61184
+	"2000"	"2000"	"Louisiana"	"22"	"Black or African American"	"2054-5"	1470682
+	"2000"	"2000"	"Louisiana"	"22"	"White"	"2106-3"	2912040
+"Total"	"2000"	"2000"	"Louisiana"	"22"			4471885
+	"2000"	"2000"	"Maine"	"23"	"American Indian or Alaska Native"	"1002-5"	8175
+	"2000"	"2000"	"Maine"	"23"	"Asian or Pacific Islander"	"A-PI"	10392
+	"2000"	"2000"	"Maine"	"23"	"Black or African American"	"2054-5"	8818
+	"2000"	"2000"	"Maine"	"23"	"White"	"2106-3"	1249687
+"Total"	"2000"	"2000"	"Maine"	"23"			1277072
+	"2000"	"2000"	"Maryland"	"24"	"American Indian or Alaska Native"	"1002-5"	19897
+	"2000"	"2000"	"Maryland"	"24"	"Asian or Pacific Islander"	"A-PI"	232666
+	"2000"	"2000"	"Maryland"	"24"	"Black or African American"	"2054-5"	1530353
+	"2000"	"2000"	"Maryland"	"24"	"White"	"2106-3"	3528118
+"Total"	"2000"	"2000"	"Maryland"	"24"			5311034
+	"2000"	"2000"	"Massachusetts"	"25"	"American Indian or Alaska Native"	"1002-5"	20914
+	"2000"	"2000"	"Massachusetts"	"25"	"Asian or Pacific Islander"	"A-PI"	262720
+	"2000"	"2000"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	428547
+	"2000"	"2000"	"Massachusetts"	"25"	"White"	"2106-3"	5648923
+"Total"	"2000"	"2000"	"Massachusetts"	"25"			6361104
+	"2000"	"2000"	"Michigan"	"26"	"American Indian or Alaska Native"	"1002-5"	73924
+	"2000"	"2000"	"Michigan"	"26"	"Asian or Pacific Islander"	"A-PI"	198057
+	"2000"	"2000"	"Michigan"	"26"	"Black or African American"	"2054-5"	1468133
+	"2000"	"2000"	"Michigan"	"26"	"White"	"2106-3"	8212336
+"Total"	"2000"	"2000"	"Michigan"	"26"			9952450
+	"2000"	"2000"	"Minnesota"	"27"	"American Indian or Alaska Native"	"1002-5"	62686
+	"2000"	"2000"	"Minnesota"	"27"	"Asian or Pacific Islander"	"A-PI"	157285
+	"2000"	"2000"	"Minnesota"	"27"	"Black or African American"	"2054-5"	196652
+	"2000"	"2000"	"Minnesota"	"27"	"White"	"2106-3"	4517069
+"Total"	"2000"	"2000"	"Minnesota"	"27"			4933692
+	"2000"	"2000"	"Mississippi"	"28"	"American Indian or Alaska Native"	"1002-5"	12381
+	"2000"	"2000"	"Mississippi"	"28"	"Asian or Pacific Islander"	"A-PI"	21209
+	"2000"	"2000"	"Mississippi"	"28"	"Black or African American"	"2054-5"	1043359
+	"2000"	"2000"	"Mississippi"	"28"	"White"	"2106-3"	1771404
+"Total"	"2000"	"2000"	"Mississippi"	"28"			2848353
+	"2000"	"2000"	"Missouri"	"29"	"American Indian or Alaska Native"	"1002-5"	31542
+	"2000"	"2000"	"Missouri"	"29"	"Asian or Pacific Islander"	"A-PI"	73199
+	"2000"	"2000"	"Missouri"	"29"	"Black or African American"	"2054-5"	652894
+	"2000"	"2000"	"Missouri"	"29"	"White"	"2106-3"	4849650
+"Total"	"2000"	"2000"	"Missouri"	"29"			5607285
+	"2000"	"2000"	"Montana"	"30"	"American Indian or Alaska Native"	"1002-5"	60082
+	"2000"	"2000"	"Montana"	"30"	"Asian or Pacific Islander"	"A-PI"	5846
+	"2000"	"2000"	"Montana"	"30"	"Black or African American"	"2054-5"	4056
+	"2000"	"2000"	"Montana"	"30"	"White"	"2106-3"	833789
+"Total"	"2000"	"2000"	"Montana"	"30"			903773
+	"2000"	"2000"	"Nebraska"	"31"	"American Indian or Alaska Native"	"1002-5"	16992
+	"2000"	"2000"	"Nebraska"	"31"	"Asian or Pacific Islander"	"A-PI"	25275
+	"2000"	"2000"	"Nebraska"	"31"	"Black or African American"	"2054-5"	74826
+	"2000"	"2000"	"Nebraska"	"31"	"White"	"2106-3"	1596727
+"Total"	"2000"	"2000"	"Nebraska"	"31"			1713820
+	"2000"	"2000"	"Nevada"	"32"	"American Indian or Alaska Native"	"1002-5"	32064
+	"2000"	"2000"	"Nevada"	"32"	"Asian or Pacific Islander"	"A-PI"	113857
+	"2000"	"2000"	"Nevada"	"32"	"Black or African American"	"2054-5"	151556
+	"2000"	"2000"	"Nevada"	"32"	"White"	"2106-3"	1721264
+"Total"	"2000"	"2000"	"Nevada"	"32"			2018741
+	"2000"	"2000"	"New Hampshire"	"33"	"American Indian or Alaska Native"	"1002-5"	3684
+	"2000"	"2000"	"New Hampshire"	"33"	"Asian or Pacific Islander"	"A-PI"	17950
+	"2000"	"2000"	"New Hampshire"	"33"	"Black or African American"	"2054-5"	11612
+	"2000"	"2000"	"New Hampshire"	"33"	"White"	"2106-3"	1206636
+"Total"	"2000"	"2000"	"New Hampshire"	"33"			1239882
+	"2000"	"2000"	"New Jersey"	"34"	"American Indian or Alaska Native"	"1002-5"	29128
+	"2000"	"2000"	"New Jersey"	"34"	"Asian or Pacific Islander"	"A-PI"	520125
+	"2000"	"2000"	"New Jersey"	"34"	"Black or African American"	"2054-5"	1244586
+	"2000"	"2000"	"New Jersey"	"34"	"White"	"2106-3"	6636782
+"Total"	"2000"	"2000"	"New Jersey"	"34"			8430621
+	"2000"	"2000"	"New Mexico"	"35"	"American Indian or Alaska Native"	"1002-5"	185172
+	"2000"	"2000"	"New Mexico"	"35"	"Asian or Pacific Islander"	"A-PI"	25345
+	"2000"	"2000"	"New Mexico"	"35"	"Black or African American"	"2054-5"	42775
+	"2000"	"2000"	"New Mexico"	"35"	"White"	"2106-3"	1567912
+"Total"	"2000"	"2000"	"New Mexico"	"35"			1821204
+	"2000"	"2000"	"New York"	"36"	"American Indian or Alaska Native"	"1002-5"	121934
+	"2000"	"2000"	"New York"	"36"	"Asian or Pacific Islander"	"A-PI"	1169860
+	"2000"	"2000"	"New York"	"36"	"Black or African American"	"2054-5"	3443462
+	"2000"	"2000"	"New York"	"36"	"White"	"2106-3"	14266524
+"Total"	"2000"	"2000"	"New York"	"36"			19001780
+	"2000"	"2000"	"North Carolina"	"37"	"American Indian or Alaska Native"	"1002-5"	107289
+	"2000"	"2000"	"North Carolina"	"37"	"Asian or Pacific Islander"	"A-PI"	131601
+	"2000"	"2000"	"North Carolina"	"37"	"Black or African American"	"2054-5"	1785118
+	"2000"	"2000"	"North Carolina"	"37"	"White"	"2106-3"	6057606
+"Total"	"2000"	"2000"	"North Carolina"	"37"			8081614
+	"2000"	"2000"	"North Dakota"	"38"	"American Indian or Alaska Native"	"1002-5"	32758
+	"2000"	"2000"	"North Dakota"	"38"	"Asian or Pacific Islander"	"A-PI"	4344
+	"2000"	"2000"	"North Dakota"	"38"	"Black or African American"	"2054-5"	4971
+	"2000"	"2000"	"North Dakota"	"38"	"White"	"2106-3"	599950
+"Total"	"2000"	"2000"	"North Dakota"	"38"			642023
+	"2000"	"2000"	"Ohio"	"39"	"American Indian or Alaska Native"	"1002-5"	32084
+	"2000"	"2000"	"Ohio"	"39"	"Asian or Pacific Islander"	"A-PI"	150403
+	"2000"	"2000"	"Ohio"	"39"	"Black or African American"	"2054-5"	1364281
+	"2000"	"2000"	"Ohio"	"39"	"White"	"2106-3"	9816775
+"Total"	"2000"	"2000"	"Ohio"	"39"			11363543
+	"2000"	"2000"	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	313719
+	"2000"	"2000"	"Oklahoma"	"40"	"Asian or Pacific Islander"	"A-PI"	55505
+	"2000"	"2000"	"Oklahoma"	"40"	"Black or African American"	"2054-5"	280566
+	"2000"	"2000"	"Oklahoma"	"40"	"White"	"2106-3"	2804575
+"Total"	"2000"	"2000"	"Oklahoma"	"40"			3454365
+	"2000"	"2000"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	57175
+	"2000"	"2000"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	124279
+	"2000"	"2000"	"Oregon"	"41"	"Black or African American"	"2054-5"	69705
+	"2000"	"2000"	"Oregon"	"41"	"White"	"2106-3"	3178549
+"Total"	"2000"	"2000"	"Oregon"	"41"			3429708
+	"2000"	"2000"	"Pennsylvania"	"42"	"American Indian or Alaska Native"	"1002-5"	23515
+	"2000"	"2000"	"Pennsylvania"	"42"	"Asian or Pacific Islander"	"A-PI"	241499
+	"2000"	"2000"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	1296937
+	"2000"	"2000"	"Pennsylvania"	"42"	"White"	"2106-3"	10722222
+"Total"	"2000"	"2000"	"Pennsylvania"	"42"			12284173
+	"2000"	"2000"	"Rhode Island"	"44"	"American Indian or Alaska Native"	"1002-5"	6742
+	"2000"	"2000"	"Rhode Island"	"44"	"Asian or Pacific Islander"	"A-PI"	27967
+	"2000"	"2000"	"Rhode Island"	"44"	"Black or African American"	"2054-5"	65323
+	"2000"	"2000"	"Rhode Island"	"44"	"White"	"2106-3"	950236
+"Total"	"2000"	"2000"	"Rhode Island"	"44"			1050268
+	"2000"	"2000"	"South Carolina"	"45"	"American Indian or Alaska Native"	"1002-5"	15448
+	"2000"	"2000"	"South Carolina"	"45"	"Asian or Pacific Islander"	"A-PI"	42160
+	"2000"	"2000"	"South Carolina"	"45"	"Black or African American"	"2054-5"	1204830
+	"2000"	"2000"	"South Carolina"	"45"	"White"	"2106-3"	2761785
+"Total"	"2000"	"2000"	"South Carolina"	"45"			4024223
+	"2000"	"2000"	"South Dakota"	"46"	"American Indian or Alaska Native"	"1002-5"	65324
+	"2000"	"2000"	"South Dakota"	"46"	"Asian or Pacific Islander"	"A-PI"	5152
+	"2000"	"2000"	"South Dakota"	"46"	"Black or African American"	"2054-5"	6185
+	"2000"	"2000"	"South Dakota"	"46"	"White"	"2106-3"	679183
+"Total"	"2000"	"2000"	"South Dakota"	"46"			755844
+	"2000"	"2000"	"Tennessee"	"47"	"American Indian or Alaska Native"	"1002-5"	17151
+	"2000"	"2000"	"Tennessee"	"47"	"Asian or Pacific Islander"	"A-PI"	65370
+	"2000"	"2000"	"Tennessee"	"47"	"Black or African American"	"2054-5"	953877
+	"2000"	"2000"	"Tennessee"	"47"	"White"	"2106-3"	4667321
+"Total"	"2000"	"2000"	"Tennessee"	"47"			5703719
+	"2000"	"2000"	"Texas"	"48"	"American Indian or Alaska Native"	"1002-5"	152791
+	"2000"	"2000"	"Texas"	"48"	"Asian or Pacific Islander"	"A-PI"	643582
+	"2000"	"2000"	"Texas"	"48"	"Black or African American"	"2054-5"	2498467
+	"2000"	"2000"	"Texas"	"48"	"White"	"2106-3"	17649659
+"Total"	"2000"	"2000"	"Texas"	"48"			20944499
+	"2000"	"2000"	"Utah"	"49"	"American Indian or Alaska Native"	"1002-5"	33898
+	"2000"	"2000"	"Utah"	"49"	"Asian or Pacific Islander"	"A-PI"	60207
+	"2000"	"2000"	"Utah"	"49"	"Black or African American"	"2054-5"	23349
+	"2000"	"2000"	"Utah"	"49"	"White"	"2106-3"	2127048
+"Total"	"2000"	"2000"	"Utah"	"49"			2244502
+	"2000"	"2000"	"Vermont"	"50"	"American Indian or Alaska Native"	"1002-5"	2996
+	"2000"	"2000"	"Vermont"	"50"	"Asian or Pacific Islander"	"A-PI"	5846
+	"2000"	"2000"	"Vermont"	"50"	"Black or African American"	"2054-5"	4140
+	"2000"	"2000"	"Vermont"	"50"	"White"	"2106-3"	596636
+"Total"	"2000"	"2000"	"Vermont"	"50"			609618
+	"2000"	"2000"	"Virginia"	"51"	"American Indian or Alaska Native"	"1002-5"	25675
+	"2000"	"2000"	"Virginia"	"51"	"Asian or Pacific Islander"	"A-PI"	294156
+	"2000"	"2000"	"Virginia"	"51"	"Black or African American"	"2054-5"	1445626
+	"2000"	"2000"	"Virginia"	"51"	"White"	"2106-3"	5340360
+"Total"	"2000"	"2000"	"Virginia"	"51"			7105817
+	"2000"	"2000"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	112353
+	"2000"	"2000"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	390003
+	"2000"	"2000"	"Washington"	"53"	"Black or African American"	"2054-5"	231593
+	"2000"	"2000"	"Washington"	"53"	"White"	"2106-3"	5176563
+"Total"	"2000"	"2000"	"Washington"	"53"			5910512
+	"2000"	"2000"	"West Virginia"	"54"	"American Indian or Alaska Native"	"1002-5"	3744
+	"2000"	"2000"	"West Virginia"	"54"	"Asian or Pacific Islander"	"A-PI"	10794
+	"2000"	"2000"	"West Virginia"	"54"	"Black or African American"	"2054-5"	60967
+	"2000"	"2000"	"West Virginia"	"54"	"White"	"2106-3"	1731516
+"Total"	"2000"	"2000"	"West Virginia"	"54"			1807021
+	"2000"	"2000"	"Wisconsin"	"55"	"American Indian or Alaska Native"	"1002-5"	52933
+	"2000"	"2000"	"Wisconsin"	"55"	"Asian or Pacific Islander"	"A-PI"	98607
+	"2000"	"2000"	"Wisconsin"	"55"	"Black or African American"	"2054-5"	323897
+	"2000"	"2000"	"Wisconsin"	"55"	"White"	"2106-3"	4898562
+"Total"	"2000"	"2000"	"Wisconsin"	"55"			5373999
+	"2000"	"2000"	"Wyoming"	"56"	"American Indian or Alaska Native"	"1002-5"	12208
+	"2000"	"2000"	"Wyoming"	"56"	"Asian or Pacific Islander"	"A-PI"	3524
+	"2000"	"2000"	"Wyoming"	"56"	"Black or African American"	"2054-5"	4720
+	"2000"	"2000"	"Wyoming"	"56"	"White"	"2106-3"	473848
+"Total"	"2000"	"2000"	"Wyoming"	"56"			494300
+"Total"	"2000"	"2000"					281590365
+	"2004"	"2004"	"Alabama"	"01"	"American Indian or Alaska Native"	"1002-5"	28974
+	"2004"	"2004"	"Alabama"	"01"	"Asian or Pacific Islander"	"A-PI"	46752
+	"2004"	"2004"	"Alabama"	"01"	"Black or African American"	"2054-5"	1199192
+	"2004"	"2004"	"Alabama"	"01"	"White"	"2106-3"	3255811
+"Total"	"2004"	"2004"	"Alabama"	"01"			4530729
+	"2004"	"2004"	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	112721
+	"2004"	"2004"	"Alaska"	"02"	"Asian or Pacific Islander"	"A-PI"	39436
+	"2004"	"2004"	"Alaska"	"02"	"Black or African American"	"2054-5"	28663
+	"2004"	"2004"	"Alaska"	"02"	"White"	"2106-3"	478466
+"Total"	"2004"	"2004"	"Alaska"	"02"			659286
+	"2004"	"2004"	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	306256
+	"2004"	"2004"	"Arizona"	"04"	"Asian or Pacific Islander"	"A-PI"	153388
+	"2004"	"2004"	"Arizona"	"04"	"Black or African American"	"2054-5"	226956
+	"2004"	"2004"	"Arizona"	"04"	"White"	"2106-3"	4965804
+"Total"	"2004"	"2004"	"Arizona"	"04"			5652404
+	"2004"	"2004"	"Arkansas"	"05"	"American Indian or Alaska Native"	"1002-5"	23054
+	"2004"	"2004"	"Arkansas"	"05"	"Asian or Pacific Islander"	"A-PI"	32575
+	"2004"	"2004"	"Arkansas"	"05"	"Black or African American"	"2054-5"	438712
+	"2004"	"2004"	"Arkansas"	"05"	"White"	"2106-3"	2255345
+"Total"	"2004"	"2004"	"Arkansas"	"05"			2749686
+	"2004"	"2004"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	557610
+	"2004"	"2004"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	4750147
+	"2004"	"2004"	"California"	"06"	"Black or African American"	"2054-5"	2603152
+	"2004"	"2004"	"California"	"06"	"White"	"2106-3"	27663667
+"Total"	"2004"	"2004"	"California"	"06"			35574576
+	"2004"	"2004"	"Colorado"	"08"	"American Indian or Alaska Native"	"1002-5"	68901
+	"2004"	"2004"	"Colorado"	"08"	"Asian or Pacific Islander"	"A-PI"	136838
+	"2004"	"2004"	"Colorado"	"08"	"Black or African American"	"2054-5"	208322
+	"2004"	"2004"	"Colorado"	"08"	"White"	"2106-3"	4160952
+"Total"	"2004"	"2004"	"Colorado"	"08"			4575013
+	"2004"	"2004"	"Connecticut"	"09"	"American Indian or Alaska Native"	"1002-5"	15550
+	"2004"	"2004"	"Connecticut"	"09"	"Asian or Pacific Islander"	"A-PI"	118414
+	"2004"	"2004"	"Connecticut"	"09"	"Black or African American"	"2054-5"	375875
+	"2004"	"2004"	"Connecticut"	"09"	"White"	"2106-3"	2986255
+"Total"	"2004"	"2004"	"Connecticut"	"09"			3496094
+	"2004"	"2004"	"Delaware"	"10"	"American Indian or Alaska Native"	"1002-5"	4567
+	"2004"	"2004"	"Delaware"	"10"	"Asian or Pacific Islander"	"A-PI"	23798
+	"2004"	"2004"	"Delaware"	"10"	"Black or African American"	"2054-5"	175605
+	"2004"	"2004"	"Delaware"	"10"	"White"	"2106-3"	626833
+"Total"	"2004"	"2004"	"Delaware"	"10"			830803
+	"2004"	"2004"	"Florida"	"12"	"American Indian or Alaska Native"	"1002-5"	81982
+	"2004"	"2004"	"Florida"	"12"	"Asian or Pacific Islander"	"A-PI"	414998
+	"2004"	"2004"	"Florida"	"12"	"Black or African American"	"2054-5"	2786446
+	"2004"	"2004"	"Florida"	"12"	"White"	"2106-3"	14131892
+"Total"	"2004"	"2004"	"Florida"	"12"			17415318
+	"2004"	"2004"	"Georgia"	"13"	"American Indian or Alaska Native"	"1002-5"	36528
+	"2004"	"2004"	"Georgia"	"13"	"Asian or Pacific Islander"	"A-PI"	256011
+	"2004"	"2004"	"Georgia"	"13"	"Black or African American"	"2054-5"	2635336
+	"2004"	"2004"	"Georgia"	"13"	"White"	"2106-3"	5841377
+"Total"	"2004"	"2004"	"Georgia"	"13"			8769252
+	"2004"	"2004"	"Hawaii"	"15"	"American Indian or Alaska Native"	"1002-5"	5369
+	"2004"	"2004"	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	852273
+	"2004"	"2004"	"Hawaii"	"15"	"Black or African American"	"2054-5"	32914
+	"2004"	"2004"	"Hawaii"	"15"	"White"	"2106-3"	383013
+"Total"	"2004"	"2004"	"Hawaii"	"15"			1273569
+	"2004"	"2004"	"Idaho"	"16"	"American Indian or Alaska Native"	"1002-5"	23461
+	"2004"	"2004"	"Idaho"	"16"	"Asian or Pacific Islander"	"A-PI"	19138
+	"2004"	"2004"	"Idaho"	"16"	"Black or African American"	"2054-5"	10823
+	"2004"	"2004"	"Idaho"	"16"	"White"	"2106-3"	1338380
+"Total"	"2004"	"2004"	"Idaho"	"16"			1391802
+	"2004"	"2004"	"Illinois"	"17"	"American Indian or Alaska Native"	"1002-5"	59253
+	"2004"	"2004"	"Illinois"	"17"	"Asian or Pacific Islander"	"A-PI"	538214
+	"2004"	"2004"	"Illinois"	"17"	"Black or African American"	"2054-5"	1944473
+	"2004"	"2004"	"Illinois"	"17"	"White"	"2106-3"	10047833
+"Total"	"2004"	"2004"	"Illinois"	"17"			12589773
+	"2004"	"2004"	"Indiana"	"18"	"American Indian or Alaska Native"	"1002-5"	22851
+	"2004"	"2004"	"Indiana"	"18"	"Asian or Pacific Islander"	"A-PI"	87942
+	"2004"	"2004"	"Indiana"	"18"	"Black or African American"	"2054-5"	575734
+	"2004"	"2004"	"Indiana"	"18"	"White"	"2106-3"	5546480
+"Total"	"2004"	"2004"	"Indiana"	"18"			6233007
+	"2004"	"2004"	"Iowa"	"19"	"American Indian or Alaska Native"	"1002-5"	12318
+	"2004"	"2004"	"Iowa"	"19"	"Asian or Pacific Islander"	"A-PI"	47388
+	"2004"	"2004"	"Iowa"	"19"	"Black or African American"	"2054-5"	81906
+	"2004"	"2004"	"Iowa"	"19"	"White"	"2106-3"	2812023
+"Total"	"2004"	"2004"	"Iowa"	"19"			2953635
+	"2004"	"2004"	"Kansas"	"20"	"American Indian or Alaska Native"	"1002-5"	34199
+	"2004"	"2004"	"Kansas"	"20"	"Asian or Pacific Islander"	"A-PI"	63886
+	"2004"	"2004"	"Kansas"	"20"	"Black or African American"	"2054-5"	175310
+	"2004"	"2004"	"Kansas"	"20"	"White"	"2106-3"	2460978
+"Total"	"2004"	"2004"	"Kansas"	"20"			2734373
+	"2004"	"2004"	"Kentucky"	"21"	"American Indian or Alaska Native"	"1002-5"	10673
+	"2004"	"2004"	"Kentucky"	"21"	"Asian or Pacific Islander"	"A-PI"	43871
+	"2004"	"2004"	"Kentucky"	"21"	"Black or African American"	"2054-5"	328546
+	"2004"	"2004"	"Kentucky"	"21"	"White"	"2106-3"	3763011
+"Total"	"2004"	"2004"	"Kentucky"	"21"			4146101
+	"2004"	"2004"	"Louisiana"	"22"	"American Indian or Alaska Native"	"1002-5"	31511
+	"2004"	"2004"	"Louisiana"	"22"	"Asian or Pacific Islander"	"A-PI"	70005
+	"2004"	"2004"	"Louisiana"	"22"	"Black or African American"	"2054-5"	1509822
+	"2004"	"2004"	"Louisiana"	"22"	"White"	"2106-3"	2940900
+"Total"	"2004"	"2004"	"Louisiana"	"22"			4552238
+	"2004"	"2004"	"Maine"	"23"	"American Indian or Alaska Native"	"1002-5"	9109
+	"2004"	"2004"	"Maine"	"23"	"Asian or Pacific Islander"	"A-PI"	12739
+	"2004"	"2004"	"Maine"	"23"	"Black or African American"	"2054-5"	13758
+	"2004"	"2004"	"Maine"	"23"	"White"	"2106-3"	1278082
+"Total"	"2004"	"2004"	"Maine"	"23"			1313688
+	"2004"	"2004"	"Maryland"	"24"	"American Indian or Alaska Native"	"1002-5"	26193
+	"2004"	"2004"	"Maryland"	"24"	"Asian or Pacific Islander"	"A-PI"	282937
+	"2004"	"2004"	"Maryland"	"24"	"Black or African American"	"2054-5"	1652016
+	"2004"	"2004"	"Maryland"	"24"	"White"	"2106-3"	3585789
+"Total"	"2004"	"2004"	"Maryland"	"24"			5546935
+	"2004"	"2004"	"Massachusetts"	"25"	"American Indian or Alaska Native"	"1002-5"	26383
+	"2004"	"2004"	"Massachusetts"	"25"	"Asian or Pacific Islander"	"A-PI"	313272
+	"2004"	"2004"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	472524
+	"2004"	"2004"	"Massachusetts"	"25"	"White"	"2106-3"	5600102
+"Total"	"2004"	"2004"	"Massachusetts"	"25"			6412281
+	"2004"	"2004"	"Michigan"	"26"	"American Indian or Alaska Native"	"1002-5"	78246
+	"2004"	"2004"	"Michigan"	"26"	"Asian or Pacific Islander"	"A-PI"	237897
+	"2004"	"2004"	"Michigan"	"26"	"Black or African American"	"2054-5"	1492884
+	"2004"	"2004"	"Michigan"	"26"	"White"	"2106-3"	8246288
+"Total"	"2004"	"2004"	"Michigan"	"26"			10055315
+	"2004"	"2004"	"Minnesota"	"27"	"American Indian or Alaska Native"	"1002-5"	68115
+	"2004"	"2004"	"Minnesota"	"27"	"Asian or Pacific Islander"	"A-PI"	186774
+	"2004"	"2004"	"Minnesota"	"27"	"Black or African American"	"2054-5"	242890
+	"2004"	"2004"	"Minnesota"	"27"	"White"	"2106-3"	4589934
+"Total"	"2004"	"2004"	"Minnesota"	"27"			5087713
+	"2004"	"2004"	"Mississippi"	"28"	"American Indian or Alaska Native"	"1002-5"	14595
+	"2004"	"2004"	"Mississippi"	"28"	"Asian or Pacific Islander"	"A-PI"	24826
+	"2004"	"2004"	"Mississippi"	"28"	"Black or African American"	"2054-5"	1062637
+	"2004"	"2004"	"Mississippi"	"28"	"White"	"2106-3"	1786952
+"Total"	"2004"	"2004"	"Mississippi"	"28"			2889010
+	"2004"	"2004"	"Missouri"	"29"	"American Indian or Alaska Native"	"1002-5"	34237
+	"2004"	"2004"	"Missouri"	"29"	"Asian or Pacific Islander"	"A-PI"	90446
+	"2004"	"2004"	"Missouri"	"29"	"Black or African American"	"2054-5"	685468
+	"2004"	"2004"	"Missouri"	"29"	"White"	"2106-3"	4937590
+"Total"	"2004"	"2004"	"Missouri"	"29"			5747741
+	"2004"	"2004"	"Montana"	"30"	"American Indian or Alaska Native"	"1002-5"	63172
+	"2004"	"2004"	"Montana"	"30"	"Asian or Pacific Islander"	"A-PI"	6809
+	"2004"	"2004"	"Montana"	"30"	"Black or African American"	"2054-5"	5611
+	"2004"	"2004"	"Montana"	"30"	"White"	"2106-3"	854417
+"Total"	"2004"	"2004"	"Montana"	"30"			930009
+	"2004"	"2004"	"Nebraska"	"31"	"American Indian or Alaska Native"	"1002-5"	20080
+	"2004"	"2004"	"Nebraska"	"31"	"Asian or Pacific Islander"	"A-PI"	30595
+	"2004"	"2004"	"Nebraska"	"31"	"Black or African American"	"2054-5"	82391
+	"2004"	"2004"	"Nebraska"	"31"	"White"	"2106-3"	1616304
+"Total"	"2004"	"2004"	"Nebraska"	"31"			1749370
+	"2004"	"2004"	"Nevada"	"32"	"American Indian or Alaska Native"	"1002-5"	39104
+	"2004"	"2004"	"Nevada"	"32"	"Asian or Pacific Islander"	"A-PI"	165090
+	"2004"	"2004"	"Nevada"	"32"	"Black or African American"	"2054-5"	194114
+	"2004"	"2004"	"Nevada"	"32"	"White"	"2106-3"	1947914
+"Total"	"2004"	"2004"	"Nevada"	"32"			2346222
+	"2004"	"2004"	"New Hampshire"	"33"	"American Indian or Alaska Native"	"1002-5"	4169
+	"2004"	"2004"	"New Hampshire"	"33"	"Asian or Pacific Islander"	"A-PI"	24834
+	"2004"	"2004"	"New Hampshire"	"33"	"Black or African American"	"2054-5"	15590
+	"2004"	"2004"	"New Hampshire"	"33"	"White"	"2106-3"	1245528
+"Total"	"2004"	"2004"	"New Hampshire"	"33"			1290121
+	"2004"	"2004"	"New Jersey"	"34"	"American Indian or Alaska Native"	"1002-5"	39765
+	"2004"	"2004"	"New Jersey"	"34"	"Asian or Pacific Islander"	"A-PI"	635855
+	"2004"	"2004"	"New Jersey"	"34"	"Black or African American"	"2054-5"	1288238
+	"2004"	"2004"	"New Jersey"	"34"	"White"	"2106-3"	6670703
+"Total"	"2004"	"2004"	"New Jersey"	"34"			8634561
+	"2004"	"2004"	"New Mexico"	"35"	"American Indian or Alaska Native"	"1002-5"	199634
+	"2004"	"2004"	"New Mexico"	"35"	"Asian or Pacific Islander"	"A-PI"	30084
+	"2004"	"2004"	"New Mexico"	"35"	"Black or African American"	"2054-5"	48580
+	"2004"	"2004"	"New Mexico"	"35"	"White"	"2106-3"	1625510
+"Total"	"2004"	"2004"	"New Mexico"	"35"			1903808
+	"2004"	"2004"	"New York"	"36"	"American Indian or Alaska Native"	"1002-5"	156677
+	"2004"	"2004"	"New York"	"36"	"Asian or Pacific Islander"	"A-PI"	1327853
+	"2004"	"2004"	"New York"	"36"	"Black or African American"	"2054-5"	3464246
+	"2004"	"2004"	"New York"	"36"	"White"	"2106-3"	14222791
+"Total"	"2004"	"2004"	"New York"	"36"			19171567
+	"2004"	"2004"	"North Carolina"	"37"	"American Indian or Alaska Native"	"1002-5"	125786
+	"2004"	"2004"	"North Carolina"	"37"	"Asian or Pacific Islander"	"A-PI"	170117
+	"2004"	"2004"	"North Carolina"	"37"	"Black or African American"	"2054-5"	1901343
+	"2004"	"2004"	"North Carolina"	"37"	"White"	"2106-3"	6355906
+"Total"	"2004"	"2004"	"North Carolina"	"37"			8553152
+	"2004"	"2004"	"North Dakota"	"38"	"American Indian or Alaska Native"	"1002-5"	34974
+	"2004"	"2004"	"North Dakota"	"38"	"Asian or Pacific Islander"	"A-PI"	5704
+	"2004"	"2004"	"North Dakota"	"38"	"Black or African American"	"2054-5"	7075
+	"2004"	"2004"	"North Dakota"	"38"	"White"	"2106-3"	596952
+"Total"	"2004"	"2004"	"North Dakota"	"38"			644705
+	"2004"	"2004"	"Ohio"	"39"	"American Indian or Alaska Native"	"1002-5"	34439
+	"2004"	"2004"	"Ohio"	"39"	"Asian or Pacific Islander"	"A-PI"	180109
+	"2004"	"2004"	"Ohio"	"39"	"Black or African American"	"2054-5"	1427023
+	"2004"	"2004"	"Ohio"	"39"	"White"	"2106-3"	9810680
+"Total"	"2004"	"2004"	"Ohio"	"39"			11452251
+	"2004"	"2004"	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	337623
+	"2004"	"2004"	"Oklahoma"	"40"	"Asian or Pacific Islander"	"A-PI"	63852
+	"2004"	"2004"	"Oklahoma"	"40"	"Black or African American"	"2054-5"	290375
+	"2004"	"2004"	"Oklahoma"	"40"	"White"	"2106-3"	2833383
+"Total"	"2004"	"2004"	"Oklahoma"	"40"			3525233
+	"2004"	"2004"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	65060
+	"2004"	"2004"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	144791
+	"2004"	"2004"	"Oregon"	"41"	"Black or African American"	"2054-5"	77674
+	"2004"	"2004"	"Oregon"	"41"	"White"	"2106-3"	3281938
+"Total"	"2004"	"2004"	"Oregon"	"41"			3569463
+	"2004"	"2004"	"Pennsylvania"	"42"	"American Indian or Alaska Native"	"1002-5"	32610
+	"2004"	"2004"	"Pennsylvania"	"42"	"Asian or Pacific Islander"	"A-PI"	297339
+	"2004"	"2004"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	1372319
+	"2004"	"2004"	"Pennsylvania"	"42"	"White"	"2106-3"	10708454
+"Total"	"2004"	"2004"	"Pennsylvania"	"42"			12410722
+	"2004"	"2004"	"Rhode Island"	"44"	"American Indian or Alaska Native"	"1002-5"	8325
+	"2004"	"2004"	"Rhode Island"	"44"	"Asian or Pacific Islander"	"A-PI"	32336
+	"2004"	"2004"	"Rhode Island"	"44"	"Black or African American"	"2054-5"	75540
+	"2004"	"2004"	"Rhode Island"	"44"	"White"	"2106-3"	958378
+"Total"	"2004"	"2004"	"Rhode Island"	"44"			1074579
+	"2004"	"2004"	"South Carolina"	"45"	"American Indian or Alaska Native"	"1002-5"	19636
+	"2004"	"2004"	"South Carolina"	"45"	"Asian or Pacific Islander"	"A-PI"	52533
+	"2004"	"2004"	"South Carolina"	"45"	"Black or African American"	"2054-5"	1244041
+	"2004"	"2004"	"South Carolina"	"45"	"White"	"2106-3"	2894711
+"Total"	"2004"	"2004"	"South Carolina"	"45"			4210921
+	"2004"	"2004"	"South Dakota"	"46"	"American Indian or Alaska Native"	"1002-5"	69565
+	"2004"	"2004"	"South Dakota"	"46"	"Asian or Pacific Islander"	"A-PI"	6563
+	"2004"	"2004"	"South Dakota"	"46"	"Black or African American"	"2054-5"	8828
+	"2004"	"2004"	"South Dakota"	"46"	"White"	"2106-3"	685440
+"Total"	"2004"	"2004"	"South Dakota"	"46"			770396
+	"2004"	"2004"	"Tennessee"	"47"	"American Indian or Alaska Native"	"1002-5"	21280
+	"2004"	"2004"	"Tennessee"	"47"	"Asian or Pacific Islander"	"A-PI"	81290
+	"2004"	"2004"	"Tennessee"	"47"	"Black or African American"	"2054-5"	1009077
+	"2004"	"2004"	"Tennessee"	"47"	"White"	"2106-3"	4799162
+"Total"	"2004"	"2004"	"Tennessee"	"47"			5910809
+	"2004"	"2004"	"Texas"	"48"	"American Indian or Alaska Native"	"1002-5"	188400
+	"2004"	"2004"	"Texas"	"48"	"Asian or Pacific Islander"	"A-PI"	802430
+	"2004"	"2004"	"Texas"	"48"	"Black or African American"	"2054-5"	2697339
+	"2004"	"2004"	"Texas"	"48"	"White"	"2106-3"	18705854
+"Total"	"2004"	"2004"	"Texas"	"48"			22394023
+	"2004"	"2004"	"Utah"	"49"	"American Indian or Alaska Native"	"1002-5"	36748
+	"2004"	"2004"	"Utah"	"49"	"Asian or Pacific Islander"	"A-PI"	71531
+	"2004"	"2004"	"Utah"	"49"	"Black or African American"	"2054-5"	29165
+	"2004"	"2004"	"Utah"	"49"	"White"	"2106-3"	2264136
+"Total"	"2004"	"2004"	"Utah"	"49"			2401580
+	"2004"	"2004"	"Vermont"	"50"	"American Indian or Alaska Native"	"1002-5"	3001
+	"2004"	"2004"	"Vermont"	"50"	"Asian or Pacific Islander"	"A-PI"	7161
+	"2004"	"2004"	"Vermont"	"50"	"Black or African American"	"2054-5"	5862
+	"2004"	"2004"	"Vermont"	"50"	"White"	"2106-3"	603896
+"Total"	"2004"	"2004"	"Vermont"	"50"			619920
+	"2004"	"2004"	"Virginia"	"51"	"American Indian or Alaska Native"	"1002-5"	33746
+	"2004"	"2004"	"Virginia"	"51"	"Asian or Pacific Islander"	"A-PI"	372253
+	"2004"	"2004"	"Virginia"	"51"	"Black or African American"	"2054-5"	1519571
+	"2004"	"2004"	"Virginia"	"51"	"White"	"2106-3"	5550005
+"Total"	"2004"	"2004"	"Virginia"	"51"			7475575
+	"2004"	"2004"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	124543
+	"2004"	"2004"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	461698
+	"2004"	"2004"	"Washington"	"53"	"Black or African American"	"2054-5"	257470
+	"2004"	"2004"	"Washington"	"53"	"White"	"2106-3"	5334934
+"Total"	"2004"	"2004"	"Washington"	"53"			6178645
+	"2004"	"2004"	"West Virginia"	"54"	"American Indian or Alaska Native"	"1002-5"	3887
+	"2004"	"2004"	"West Virginia"	"54"	"Asian or Pacific Islander"	"A-PI"	12299
+	"2004"	"2004"	"West Virginia"	"54"	"Black or African American"	"2054-5"	63682
+	"2004"	"2004"	"West Virginia"	"54"	"White"	"2106-3"	1736570
+"Total"	"2004"	"2004"	"West Virginia"	"54"			1816438
+	"2004"	"2004"	"Wisconsin"	"55"	"American Indian or Alaska Native"	"1002-5"	58298
+	"2004"	"2004"	"Wisconsin"	"55"	"Asian or Pacific Islander"	"A-PI"	116408
+	"2004"	"2004"	"Wisconsin"	"55"	"Black or African American"	"2054-5"	352749
+	"2004"	"2004"	"Wisconsin"	"55"	"White"	"2106-3"	4986571
+"Total"	"2004"	"2004"	"Wisconsin"	"55"			5514026
+	"2004"	"2004"	"Wyoming"	"56"	"American Indian or Alaska Native"	"1002-5"	13333
+	"2004"	"2004"	"Wyoming"	"56"	"Asian or Pacific Islander"	"A-PI"	4251
+	"2004"	"2004"	"Wyoming"	"56"	"Black or African American"	"2054-5"	5634
+	"2004"	"2004"	"Wyoming"	"56"	"White"	"2106-3"	485888
+"Total"	"2004"	"2004"	"Wyoming"	"56"			509106
+"Total"	"2004"	"2004"					292237544
+	"2008"	"2008"	"Alabama"	"01"	"American Indian or Alaska Native"	"1002-5"	33518
+	"2008"	"2008"	"Alabama"	"01"	"Asian or Pacific Islander"	"A-PI"	58975
+	"2008"	"2008"	"Alabama"	"01"	"Black or African American"	"2054-5"	1259177
+	"2008"	"2008"	"Alabama"	"01"	"White"	"2106-3"	3366536
+"Total"	"2008"	"2008"	"Alabama"	"01"			4718206
+	"2008"	"2008"	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	117376
+	"2008"	"2008"	"Alaska"	"02"	"Asian or Pacific Islander"	"A-PI"	46039
+	"2008"	"2008"	"Alaska"	"02"	"Black or African American"	"2054-5"	30075
+	"2008"	"2008"	"Alaska"	"02"	"White"	"2106-3"	493965
+"Total"	"2008"	"2008"	"Alaska"	"02"			687455
+	"2008"	"2008"	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	346539
+	"2008"	"2008"	"Arizona"	"04"	"Asian or Pacific Islander"	"A-PI"	209252
+	"2008"	"2008"	"Arizona"	"04"	"Black or African American"	"2054-5"	294617
+	"2008"	"2008"	"Arizona"	"04"	"White"	"2106-3"	5429954
+"Total"	"2008"	"2008"	"Arizona"	"04"			6280362
+	"2008"	"2008"	"Arkansas"	"05"	"American Indian or Alaska Native"	"1002-5"	27242
+	"2008"	"2008"	"Arkansas"	"05"	"Asian or Pacific Islander"	"A-PI"	42091
+	"2008"	"2008"	"Arkansas"	"05"	"Black or African American"	"2054-5"	458375
+	"2008"	"2008"	"Arkansas"	"05"	"White"	"2106-3"	2346846
+"Total"	"2008"	"2008"	"Arkansas"	"05"			2874554
+	"2008"	"2008"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	669667
+	"2008"	"2008"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	5281970
+	"2008"	"2008"	"California"	"06"	"Black or African American"	"2054-5"	2662354
+	"2008"	"2008"	"California"	"06"	"White"	"2106-3"	27990346
+"Total"	"2008"	"2008"	"California"	"06"			36604337
+	"2008"	"2008"	"Colorado"	"08"	"American Indian or Alaska Native"	"1002-5"	84116
+	"2008"	"2008"	"Colorado"	"08"	"Asian or Pacific Islander"	"A-PI"	159295
+	"2008"	"2008"	"Colorado"	"08"	"Black or African American"	"2054-5"	231792
+	"2008"	"2008"	"Colorado"	"08"	"White"	"2106-3"	4414527
+"Total"	"2008"	"2008"	"Colorado"	"08"			4889730
+	"2008"	"2008"	"Connecticut"	"09"	"American Indian or Alaska Native"	"1002-5"	18438
+	"2008"	"2008"	"Connecticut"	"09"	"Asian or Pacific Islander"	"A-PI"	141482
+	"2008"	"2008"	"Connecticut"	"09"	"Black or African American"	"2054-5"	401643
+	"2008"	"2008"	"Connecticut"	"09"	"White"	"2106-3"	2984016
+"Total"	"2008"	"2008"	"Connecticut"	"09"			3545579
+	"2008"	"2008"	"Delaware"	"10"	"American Indian or Alaska Native"	"1002-5"	5901
+	"2008"	"2008"	"Delaware"	"10"	"Asian or Pacific Islander"	"A-PI"	29849
+	"2008"	"2008"	"Delaware"	"10"	"Black or African American"	"2054-5"	197813
+	"2008"	"2008"	"Delaware"	"10"	"White"	"2106-3"	650311
+"Total"	"2008"	"2008"	"Delaware"	"10"			883874
+	"2008"	"2008"	"Florida"	"12"	"American Indian or Alaska Native"	"1002-5"	95642
+	"2008"	"2008"	"Florida"	"12"	"Asian or Pacific Islander"	"A-PI"	512331
+	"2008"	"2008"	"Florida"	"12"	"Black or African American"	"2054-5"	3086395
+	"2008"	"2008"	"Florida"	"12"	"White"	"2106-3"	14832937
+"Total"	"2008"	"2008"	"Florida"	"12"			18527305
+	"2008"	"2008"	"Georgia"	"13"	"American Indian or Alaska Native"	"1002-5"	48540
+	"2008"	"2008"	"Georgia"	"13"	"Asian or Pacific Islander"	"A-PI"	327759
+	"2008"	"2008"	"Georgia"	"13"	"Black or African American"	"2054-5"	2962628
+	"2008"	"2008"	"Georgia"	"13"	"White"	"2106-3"	6165916
+"Total"	"2008"	"2008"	"Georgia"	"13"			9504843
+	"2008"	"2008"	"Hawaii"	"15"	"American Indian or Alaska Native"	"1002-5"	5844
+	"2008"	"2008"	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	889527
+	"2008"	"2008"	"Hawaii"	"15"	"Black or African American"	"2054-5"	33067
+	"2008"	"2008"	"Hawaii"	"15"	"White"	"2106-3"	403775
+"Total"	"2008"	"2008"	"Hawaii"	"15"			1332213
+	"2008"	"2008"	"Idaho"	"16"	"American Indian or Alaska Native"	"1002-5"	28001
+	"2008"	"2008"	"Idaho"	"16"	"Asian or Pacific Islander"	"A-PI"	24332
+	"2008"	"2008"	"Idaho"	"16"	"Black or African American"	"2054-5"	14244
+	"2008"	"2008"	"Idaho"	"16"	"White"	"2106-3"	1467743
+"Total"	"2008"	"2008"	"Idaho"	"16"			1534320
+	"2008"	"2008"	"Illinois"	"17"	"American Indian or Alaska Native"	"1002-5"	76818
+	"2008"	"2008"	"Illinois"	"17"	"Asian or Pacific Islander"	"A-PI"	612326
+	"2008"	"2008"	"Illinois"	"17"	"Black or African American"	"2054-5"	1955231
+	"2008"	"2008"	"Illinois"	"17"	"White"	"2106-3"	10102663
+"Total"	"2008"	"2008"	"Illinois"	"17"			12747038
+	"2008"	"2008"	"Indiana"	"18"	"American Indian or Alaska Native"	"1002-5"	26987
+	"2008"	"2008"	"Indiana"	"18"	"Asian or Pacific Islander"	"A-PI"	108824
+	"2008"	"2008"	"Indiana"	"18"	"Black or African American"	"2054-5"	624185
+	"2008"	"2008"	"Indiana"	"18"	"White"	"2106-3"	5664810
+"Total"	"2008"	"2008"	"Indiana"	"18"			6424806
+	"2008"	"2008"	"Iowa"	"19"	"American Indian or Alaska Native"	"1002-5"	14455
+	"2008"	"2008"	"Iowa"	"19"	"Asian or Pacific Islander"	"A-PI"	54739
+	"2008"	"2008"	"Iowa"	"19"	"Black or African American"	"2054-5"	99622
+	"2008"	"2008"	"Iowa"	"19"	"White"	"2106-3"	2847918
+"Total"	"2008"	"2008"	"Iowa"	"19"			3016734
+	"2008"	"2008"	"Kansas"	"20"	"American Indian or Alaska Native"	"1002-5"	38037
+	"2008"	"2008"	"Kansas"	"20"	"Asian or Pacific Islander"	"A-PI"	73191
+	"2008"	"2008"	"Kansas"	"20"	"Black or African American"	"2054-5"	188485
+	"2008"	"2008"	"Kansas"	"20"	"White"	"2106-3"	2508363
+"Total"	"2008"	"2008"	"Kansas"	"20"			2808076
+	"2008"	"2008"	"Kentucky"	"21"	"American Indian or Alaska Native"	"1002-5"	12060
+	"2008"	"2008"	"Kentucky"	"21"	"Asian or Pacific Islander"	"A-PI"	53472
+	"2008"	"2008"	"Kentucky"	"21"	"Black or African American"	"2054-5"	352036
+	"2008"	"2008"	"Kentucky"	"21"	"White"	"2106-3"	3872310
+"Total"	"2008"	"2008"	"Kentucky"	"21"			4289878
+	"2008"	"2008"	"Louisiana"	"22"	"American Indian or Alaska Native"	"1002-5"	34078
+	"2008"	"2008"	"Louisiana"	"22"	"Asian or Pacific Islander"	"A-PI"	73385
+	"2008"	"2008"	"Louisiana"	"22"	"Black or African American"	"2054-5"	1444476
+	"2008"	"2008"	"Louisiana"	"22"	"White"	"2106-3"	2883647
+"Total"	"2008"	"2008"	"Louisiana"	"22"			4435586
+	"2008"	"2008"	"Maine"	"23"	"American Indian or Alaska Native"	"1002-5"	10144
+	"2008"	"2008"	"Maine"	"23"	"Asian or Pacific Islander"	"A-PI"	14543
+	"2008"	"2008"	"Maine"	"23"	"Black or African American"	"2054-5"	18505
+	"2008"	"2008"	"Maine"	"23"	"White"	"2106-3"	1287317
+"Total"	"2008"	"2008"	"Maine"	"23"			1330509
+	"2008"	"2008"	"Maryland"	"24"	"American Indian or Alaska Native"	"1002-5"	32783
+	"2008"	"2008"	"Maryland"	"24"	"Asian or Pacific Islander"	"A-PI"	330748
+	"2008"	"2008"	"Maryland"	"24"	"Black or African American"	"2054-5"	1741767
+	"2008"	"2008"	"Maryland"	"24"	"White"	"2106-3"	3579667
+"Total"	"2008"	"2008"	"Maryland"	"24"			5684965
+	"2008"	"2008"	"Massachusetts"	"25"	"American Indian or Alaska Native"	"1002-5"	32135
+	"2008"	"2008"	"Massachusetts"	"25"	"Asian or Pacific Islander"	"A-PI"	357575
+	"2008"	"2008"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	517040
+	"2008"	"2008"	"Massachusetts"	"25"	"White"	"2106-3"	5562217
+"Total"	"2008"	"2008"	"Massachusetts"	"25"			6468967
+	"2008"	"2008"	"Michigan"	"26"	"American Indian or Alaska Native"	"1002-5"	82491
+	"2008"	"2008"	"Michigan"	"26"	"Asian or Pacific Islander"	"A-PI"	260068
+	"2008"	"2008"	"Michigan"	"26"	"Black or African American"	"2054-5"	1485681
+	"2008"	"2008"	"Michigan"	"26"	"White"	"2106-3"	8118649
+"Total"	"2008"	"2008"	"Michigan"	"26"			9946889
+	"2008"	"2008"	"Minnesota"	"27"	"American Indian or Alaska Native"	"1002-5"	75748
+	"2008"	"2008"	"Minnesota"	"27"	"Asian or Pacific Islander"	"A-PI"	219151
+	"2008"	"2008"	"Minnesota"	"27"	"Black or African American"	"2054-5"	294544
+	"2008"	"2008"	"Minnesota"	"27"	"White"	"2106-3"	4657575
+"Total"	"2008"	"2008"	"Minnesota"	"27"			5247018
+	"2008"	"2008"	"Mississippi"	"28"	"American Indian or Alaska Native"	"1002-5"	16752
+	"2008"	"2008"	"Mississippi"	"28"	"Asian or Pacific Islander"	"A-PI"	28439
+	"2008"	"2008"	"Mississippi"	"28"	"Black or African American"	"2054-5"	1103216
+	"2008"	"2008"	"Mississippi"	"28"	"White"	"2106-3"	1799399
+"Total"	"2008"	"2008"	"Mississippi"	"28"			2947806
+	"2008"	"2008"	"Missouri"	"29"	"American Indian or Alaska Native"	"1002-5"	37457
+	"2008"	"2008"	"Missouri"	"29"	"Asian or Pacific Islander"	"A-PI"	109200
+	"2008"	"2008"	"Missouri"	"29"	"Black or African American"	"2054-5"	719723
+	"2008"	"2008"	"Missouri"	"29"	"White"	"2106-3"	5057536
+"Total"	"2008"	"2008"	"Missouri"	"29"			5923916
+	"2008"	"2008"	"Montana"	"30"	"American Indian or Alaska Native"	"1002-5"	67202
+	"2008"	"2008"	"Montana"	"30"	"Asian or Pacific Islander"	"A-PI"	7749
+	"2008"	"2008"	"Montana"	"30"	"Black or African American"	"2054-5"	6665
+	"2008"	"2008"	"Montana"	"30"	"White"	"2106-3"	894799
+"Total"	"2008"	"2008"	"Montana"	"30"			976415
+	"2008"	"2008"	"Nebraska"	"31"	"American Indian or Alaska Native"	"1002-5"	24651
+	"2008"	"2008"	"Nebraska"	"31"	"Asian or Pacific Islander"	"A-PI"	35366
+	"2008"	"2008"	"Nebraska"	"31"	"Black or African American"	"2054-5"	91900
+	"2008"	"2008"	"Nebraska"	"31"	"White"	"2106-3"	1644461
+"Total"	"2008"	"2008"	"Nebraska"	"31"			1796378
+	"2008"	"2008"	"Nevada"	"32"	"American Indian or Alaska Native"	"1002-5"	47597
+	"2008"	"2008"	"Nevada"	"32"	"Asian or Pacific Islander"	"A-PI"	226589
+	"2008"	"2008"	"Nevada"	"32"	"Black or African American"	"2054-5"	244200
+	"2008"	"2008"	"Nevada"	"32"	"White"	"2106-3"	2135244
+"Total"	"2008"	"2008"	"Nevada"	"32"			2653630
+	"2008"	"2008"	"New Hampshire"	"33"	"American Indian or Alaska Native"	"1002-5"	4615
+	"2008"	"2008"	"New Hampshire"	"33"	"Asian or Pacific Islander"	"A-PI"	29992
+	"2008"	"2008"	"New Hampshire"	"33"	"Black or African American"	"2054-5"	18948
+	"2008"	"2008"	"New Hampshire"	"33"	"White"	"2106-3"	1262351
+"Total"	"2008"	"2008"	"New Hampshire"	"33"			1315906
+	"2008"	"2008"	"New Jersey"	"34"	"American Indian or Alaska Native"	"1002-5"	51263
+	"2008"	"2008"	"New Jersey"	"34"	"Asian or Pacific Islander"	"A-PI"	736423
+	"2008"	"2008"	"New Jersey"	"34"	"Black or African American"	"2054-5"	1311696
+	"2008"	"2008"	"New Jersey"	"34"	"White"	"2106-3"	6611708
+"Total"	"2008"	"2008"	"New Jersey"	"34"			8711090
+	"2008"	"2008"	"New Mexico"	"35"	"American Indian or Alaska Native"	"1002-5"	213396
+	"2008"	"2008"	"New Mexico"	"35"	"Asian or Pacific Islander"	"A-PI"	35468
+	"2008"	"2008"	"New Mexico"	"35"	"Black or African American"	"2054-5"	54341
+	"2008"	"2008"	"New Mexico"	"35"	"White"	"2106-3"	1707457
+"Total"	"2008"	"2008"	"New Mexico"	"35"			2010662
+	"2008"	"2008"	"New York"	"36"	"American Indian or Alaska Native"	"1002-5"	195000
+	"2008"	"2008"	"New York"	"36"	"Asian or Pacific Islander"	"A-PI"	1485783
+	"2008"	"2008"	"New York"	"36"	"Black or African American"	"2054-5"	3473867
+	"2008"	"2008"	"New York"	"36"	"White"	"2106-3"	14057786
+"Total"	"2008"	"2008"	"New York"	"36"			19212436
+	"2008"	"2008"	"North Carolina"	"37"	"American Indian or Alaska Native"	"1002-5"	147170
+	"2008"	"2008"	"North Carolina"	"37"	"Asian or Pacific Islander"	"A-PI"	221145
+	"2008"	"2008"	"North Carolina"	"37"	"Black or African American"	"2054-5"	2084901
+	"2008"	"2008"	"North Carolina"	"37"	"White"	"2106-3"	6856233
+"Total"	"2008"	"2008"	"North Carolina"	"37"			9309449
+	"2008"	"2008"	"North Dakota"	"38"	"American Indian or Alaska Native"	"1002-5"	37875
+	"2008"	"2008"	"North Dakota"	"38"	"Asian or Pacific Islander"	"A-PI"	7132
+	"2008"	"2008"	"North Dakota"	"38"	"Black or African American"	"2054-5"	8994
+	"2008"	"2008"	"North Dakota"	"38"	"White"	"2106-3"	603568
+"Total"	"2008"	"2008"	"North Dakota"	"38"			657569
+	"2008"	"2008"	"Ohio"	"39"	"American Indian or Alaska Native"	"1002-5"	37763
+	"2008"	"2008"	"Ohio"	"39"	"Asian or Pacific Islander"	"A-PI"	207654
+	"2008"	"2008"	"Ohio"	"39"	"Black or African American"	"2054-5"	1488002
+	"2008"	"2008"	"Ohio"	"39"	"White"	"2106-3"	9781972
+"Total"	"2008"	"2008"	"Ohio"	"39"			11515391
+	"2008"	"2008"	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	370624
+	"2008"	"2008"	"Oklahoma"	"40"	"Asian or Pacific Islander"	"A-PI"	73676
+	"2008"	"2008"	"Oklahoma"	"40"	"Black or African American"	"2054-5"	307270
+	"2008"	"2008"	"Oklahoma"	"40"	"White"	"2106-3"	2917406
+"Total"	"2008"	"2008"	"Oklahoma"	"40"			3668976
+	"2008"	"2008"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	76399
+	"2008"	"2008"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	168566
+	"2008"	"2008"	"Oregon"	"41"	"Black or African American"	"2054-5"	89386
+	"2008"	"2008"	"Oregon"	"41"	"White"	"2106-3"	3434397
+"Total"	"2008"	"2008"	"Oregon"	"41"			3768748
+	"2008"	"2008"	"Pennsylvania"	"42"	"American Indian or Alaska Native"	"1002-5"	42692
+	"2008"	"2008"	"Pennsylvania"	"42"	"Asian or Pacific Islander"	"A-PI"	356895
+	"2008"	"2008"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	1469600
+	"2008"	"2008"	"Pennsylvania"	"42"	"White"	"2106-3"	10743098
+"Total"	"2008"	"2008"	"Pennsylvania"	"42"			12612285
+	"2008"	"2008"	"Rhode Island"	"44"	"American Indian or Alaska Native"	"1002-5"	9707
+	"2008"	"2008"	"Rhode Island"	"44"	"Asian or Pacific Islander"	"A-PI"	34312
+	"2008"	"2008"	"Rhode Island"	"44"	"Black or African American"	"2054-5"	81603
+	"2008"	"2008"	"Rhode Island"	"44"	"White"	"2106-3"	929381
+"Total"	"2008"	"2008"	"Rhode Island"	"44"			1055003
+	"2008"	"2008"	"South Carolina"	"45"	"American Indian or Alaska Native"	"1002-5"	25048
+	"2008"	"2008"	"South Carolina"	"45"	"Asian or Pacific Islander"	"A-PI"	65865
+	"2008"	"2008"	"South Carolina"	"45"	"Black or African American"	"2054-5"	1308465
+	"2008"	"2008"	"South Carolina"	"45"	"White"	"2106-3"	3129618
+"Total"	"2008"	"2008"	"South Carolina"	"45"			4528996
+	"2008"	"2008"	"South Dakota"	"46"	"American Indian or Alaska Native"	"1002-5"	74790
+	"2008"	"2008"	"South Dakota"	"46"	"Asian or Pacific Islander"	"A-PI"	7918
+	"2008"	"2008"	"South Dakota"	"46"	"Black or African American"	"2054-5"	11798
+	"2008"	"2008"	"South Dakota"	"46"	"White"	"2106-3"	704618
+"Total"	"2008"	"2008"	"South Dakota"	"46"			799124
+	"2008"	"2008"	"Tennessee"	"47"	"American Indian or Alaska Native"	"1002-5"	26659
+	"2008"	"2008"	"Tennessee"	"47"	"Asian or Pacific Islander"	"A-PI"	99772
+	"2008"	"2008"	"Tennessee"	"47"	"Black or African American"	"2054-5"	1074684
+	"2008"	"2008"	"Tennessee"	"47"	"White"	"2106-3"	5046296
+"Total"	"2008"	"2008"	"Tennessee"	"47"			6247411
+	"2008"	"2008"	"Texas"	"48"	"American Indian or Alaska Native"	"1002-5"	243884
+	"2008"	"2008"	"Texas"	"48"	"Asian or Pacific Islander"	"A-PI"	1000104
+	"2008"	"2008"	"Texas"	"48"	"Black or African American"	"2054-5"	3027152
+	"2008"	"2008"	"Texas"	"48"	"White"	"2106-3"	20037899
+"Total"	"2008"	"2008"	"Texas"	"48"			24309039
+	"2008"	"2008"	"Utah"	"49"	"American Indian or Alaska Native"	"1002-5"	43023
+	"2008"	"2008"	"Utah"	"49"	"Asian or Pacific Islander"	"A-PI"	86772
+	"2008"	"2008"	"Utah"	"49"	"Black or African American"	"2054-5"	38231
+	"2008"	"2008"	"Utah"	"49"	"White"	"2106-3"	2495003
+"Total"	"2008"	"2008"	"Utah"	"49"			2663029
+	"2008"	"2008"	"Vermont"	"50"	"American Indian or Alaska Native"	"1002-5"	3039
+	"2008"	"2008"	"Vermont"	"50"	"Asian or Pacific Islander"	"A-PI"	8261
+	"2008"	"2008"	"Vermont"	"50"	"Black or African American"	"2054-5"	7759
+	"2008"	"2008"	"Vermont"	"50"	"White"	"2106-3"	605092
+"Total"	"2008"	"2008"	"Vermont"	"50"			624151
+	"2008"	"2008"	"Virginia"	"51"	"American Indian or Alaska Native"	"1002-5"	41989
+	"2008"	"2008"	"Virginia"	"51"	"Asian or Pacific Islander"	"A-PI"	455516
+	"2008"	"2008"	"Virginia"	"51"	"Black or African American"	"2054-5"	1602530
+	"2008"	"2008"	"Virginia"	"51"	"White"	"2106-3"	5733461
+"Total"	"2008"	"2008"	"Virginia"	"51"			7833496
+	"2008"	"2008"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	140912
+	"2008"	"2008"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	549453
+	"2008"	"2008"	"Washington"	"53"	"Black or African American"	"2054-5"	294548
+	"2008"	"2008"	"Washington"	"53"	"White"	"2106-3"	5577318
+"Total"	"2008"	"2008"	"Washington"	"53"			6562231
+	"2008"	"2008"	"West Virginia"	"54"	"American Indian or Alaska Native"	"1002-5"	4211
+	"2008"	"2008"	"West Virginia"	"54"	"Asian or Pacific Islander"	"A-PI"	13671
+	"2008"	"2008"	"West Virginia"	"54"	"Black or African American"	"2054-5"	68836
+	"2008"	"2008"	"West Virginia"	"54"	"White"	"2106-3"	1753592
+"Total"	"2008"	"2008"	"West Virginia"	"54"			1840310
+	"2008"	"2008"	"Wisconsin"	"55"	"American Indian or Alaska Native"	"1002-5"	64716
+	"2008"	"2008"	"Wisconsin"	"55"	"Asian or Pacific Islander"	"A-PI"	134081
+	"2008"	"2008"	"Wisconsin"	"55"	"Black or African American"	"2054-5"	381998
+	"2008"	"2008"	"Wisconsin"	"55"	"White"	"2106-3"	5060201
+"Total"	"2008"	"2008"	"Wisconsin"	"55"			5640996
+	"2008"	"2008"	"Wyoming"	"56"	"American Indian or Alaska Native"	"1002-5"	15245
+	"2008"	"2008"	"Wyoming"	"56"	"Asian or Pacific Islander"	"A-PI"	5239
+	"2008"	"2008"	"Wyoming"	"56"	"Black or African American"	"2054-5"	6502
+	"2008"	"2008"	"Wyoming"	"56"	"White"	"2106-3"	519057
+"Total"	"2008"	"2008"	"Wyoming"	"56"			546043
+"Total"	"2008"	"2008"					303513730
+	"2012"	"2012"	"Alabama"	"01"	"American Indian or Alaska Native"	"1002-5"	35921
+	"2012"	"2012"	"Alabama"	"01"	"Asian or Pacific Islander"	"A-PI"	70522
+	"2012"	"2012"	"Alabama"	"01"	"Black or African American"	"2054-5"	1298130
+	"2012"	"2012"	"Alabama"	"01"	"White"	"2106-3"	3411015
+"Total"	"2012"	"2012"	"Alabama"	"01"			4815588
+	"2012"	"2012"	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	123675
+	"2012"	"2012"	"Alaska"	"02"	"Asian or Pacific Islander"	"A-PI"	55448
+	"2012"	"2012"	"Alaska"	"02"	"Black or African American"	"2054-5"	34102
+	"2012"	"2012"	"Alaska"	"02"	"White"	"2106-3"	517218
+"Total"	"2012"	"2012"	"Alaska"	"02"			730443
+	"2012"	"2012"	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	372022
+	"2012"	"2012"	"Arizona"	"04"	"Asian or Pacific Islander"	"A-PI"	245321
+	"2012"	"2012"	"Arizona"	"04"	"Black or African American"	"2054-5"	336982
+	"2012"	"2012"	"Arizona"	"04"	"White"	"2106-3"	5600653
+"Total"	"2012"	"2012"	"Arizona"	"04"			6554978
+	"2012"	"2012"	"Arkansas"	"05"	"American Indian or Alaska Native"	"1002-5"	30310
+	"2012"	"2012"	"Arkansas"	"05"	"Asian or Pacific Islander"	"A-PI"	53402
+	"2012"	"2012"	"Arkansas"	"05"	"Black or African American"	"2054-5"	473044
+	"2012"	"2012"	"Arkansas"	"05"	"White"	"2106-3"	2395408
+"Total"	"2012"	"2012"	"Arkansas"	"05"			2952164
+	"2012"	"2012"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	749043
+	"2012"	"2012"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	5778558
+	"2012"	"2012"	"California"	"06"	"Black or African American"	"2054-5"	2754119
+	"2012"	"2012"	"California"	"06"	"White"	"2106-3"	28667080
+"Total"	"2012"	"2012"	"California"	"06"			37948800
+	"2012"	"2012"	"Colorado"	"08"	"American Indian or Alaska Native"	"1002-5"	96230
+	"2012"	"2012"	"Colorado"	"08"	"Asian or Pacific Islander"	"A-PI"	185609
+	"2012"	"2012"	"Colorado"	"08"	"Black or African American"	"2054-5"	259203
+	"2012"	"2012"	"Colorado"	"08"	"White"	"2106-3"	4651605
+"Total"	"2012"	"2012"	"Colorado"	"08"			5192647
+	"2012"	"2012"	"Connecticut"	"09"	"American Indian or Alaska Native"	"1002-5"	21139
+	"2012"	"2012"	"Connecticut"	"09"	"Asian or Pacific Islander"	"A-PI"	162686
+	"2012"	"2012"	"Connecticut"	"09"	"Black or African American"	"2054-5"	428030
+	"2012"	"2012"	"Connecticut"	"09"	"White"	"2106-3"	2982692
+"Total"	"2012"	"2012"	"Connecticut"	"09"			3594547
+	"2012"	"2012"	"Delaware"	"10"	"American Indian or Alaska Native"	"1002-5"	6546
+	"2012"	"2012"	"Delaware"	"10"	"Asian or Pacific Islander"	"A-PI"	34298
+	"2012"	"2012"	"Delaware"	"10"	"Black or African American"	"2054-5"	211591
+	"2012"	"2012"	"Delaware"	"10"	"White"	"2106-3"	662744
+"Total"	"2012"	"2012"	"Delaware"	"10"			915179
+	"2012"	"2012"	"Florida"	"12"	"American Indian or Alaska Native"	"1002-5"	103964
+	"2012"	"2012"	"Florida"	"12"	"Asian or Pacific Islander"	"A-PI"	579014
+	"2012"	"2012"	"Florida"	"12"	"Black or African American"	"2054-5"	3324305
+	"2012"	"2012"	"Florida"	"12"	"White"	"2106-3"	15290539
+"Total"	"2012"	"2012"	"Florida"	"12"			19297822
+	"2012"	"2012"	"Georgia"	"13"	"American Indian or Alaska Native"	"1002-5"	55174
+	"2012"	"2012"	"Georgia"	"13"	"Asian or Pacific Islander"	"A-PI"	385470
+	"2012"	"2012"	"Georgia"	"13"	"Black or African American"	"2054-5"	3170070
+	"2012"	"2012"	"Georgia"	"13"	"White"	"2106-3"	6290716
+"Total"	"2012"	"2012"	"Georgia"	"13"			9901430
+	"2012"	"2012"	"Hawaii"	"15"	"American Indian or Alaska Native"	"1002-5"	6245
+	"2012"	"2012"	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	927762
+	"2012"	"2012"	"Hawaii"	"15"	"Black or African American"	"2054-5"	38144
+	"2012"	"2012"	"Hawaii"	"15"	"White"	"2106-3"	422653
+"Total"	"2012"	"2012"	"Hawaii"	"15"			1394804
+	"2012"	"2012"	"Idaho"	"16"	"American Indian or Alaska Native"	"1002-5"	31163
+	"2012"	"2012"	"Idaho"	"16"	"Asian or Pacific Islander"	"A-PI"	27815
+	"2012"	"2012"	"Idaho"	"16"	"Black or African American"	"2054-5"	16621
+	"2012"	"2012"	"Idaho"	"16"	"White"	"2106-3"	1519725
+"Total"	"2012"	"2012"	"Idaho"	"16"			1595324
+	"2012"	"2012"	"Illinois"	"17"	"American Indian or Alaska Native"	"1002-5"	86907
+	"2012"	"2012"	"Illinois"	"17"	"Asian or Pacific Islander"	"A-PI"	688382
+	"2012"	"2012"	"Illinois"	"17"	"Black or African American"	"2054-5"	1968982
+	"2012"	"2012"	"Illinois"	"17"	"White"	"2106-3"	10138239
+"Total"	"2012"	"2012"	"Illinois"	"17"			12882510
+	"2012"	"2012"	"Indiana"	"18"	"American Indian or Alaska Native"	"1002-5"	29731
+	"2012"	"2012"	"Indiana"	"18"	"Asian or Pacific Islander"	"A-PI"	134777
+	"2012"	"2012"	"Indiana"	"18"	"Black or African American"	"2054-5"	660413
+	"2012"	"2012"	"Indiana"	"18"	"White"	"2106-3"	5712782
+"Total"	"2012"	"2012"	"Indiana"	"18"			6537703
+	"2012"	"2012"	"Iowa"	"19"	"American Indian or Alaska Native"	"1002-5"	16326
+	"2012"	"2012"	"Iowa"	"19"	"Asian or Pacific Islander"	"A-PI"	69333
+	"2012"	"2012"	"Iowa"	"19"	"Black or African American"	"2054-5"	114888
+	"2012"	"2012"	"Iowa"	"19"	"White"	"2106-3"	2875643
+"Total"	"2012"	"2012"	"Iowa"	"19"			3076190
+	"2012"	"2012"	"Kansas"	"20"	"American Indian or Alaska Native"	"1002-5"	41387
+	"2012"	"2012"	"Kansas"	"20"	"Asian or Pacific Islander"	"A-PI"	84792
+	"2012"	"2012"	"Kansas"	"20"	"Black or African American"	"2054-5"	201653
+	"2012"	"2012"	"Kansas"	"20"	"White"	"2106-3"	2557425
+"Total"	"2012"	"2012"	"Kansas"	"20"			2885257
+	"2012"	"2012"	"Kentucky"	"21"	"American Indian or Alaska Native"	"1002-5"	13169
+	"2012"	"2012"	"Kentucky"	"21"	"Asian or Pacific Islander"	"A-PI"	63626
+	"2012"	"2012"	"Kentucky"	"21"	"Black or African American"	"2054-5"	376937
+	"2012"	"2012"	"Kentucky"	"21"	"White"	"2106-3"	3932614
+"Total"	"2012"	"2012"	"Kentucky"	"21"			4386346
+	"2012"	"2012"	"Louisiana"	"22"	"American Indian or Alaska Native"	"1002-5"	37524
+	"2012"	"2012"	"Louisiana"	"22"	"Asian or Pacific Islander"	"A-PI"	84702
+	"2012"	"2012"	"Louisiana"	"22"	"Black or African American"	"2054-5"	1516663
+	"2012"	"2012"	"Louisiana"	"22"	"White"	"2106-3"	2962083
+"Total"	"2012"	"2012"	"Louisiana"	"22"			4600972
+	"2012"	"2012"	"Maine"	"23"	"American Indian or Alaska Native"	"1002-5"	10648
+	"2012"	"2012"	"Maine"	"23"	"Asian or Pacific Islander"	"A-PI"	16104
+	"2012"	"2012"	"Maine"	"23"	"Black or African American"	"2054-5"	21489
+	"2012"	"2012"	"Maine"	"23"	"White"	"2106-3"	1279488
+"Total"	"2012"	"2012"	"Maine"	"23"			1327729
+	"2012"	"2012"	"Maryland"	"24"	"American Indian or Alaska Native"	"1002-5"	37479
+	"2012"	"2012"	"Maryland"	"24"	"Asian or Pacific Islander"	"A-PI"	380606
+	"2012"	"2012"	"Maryland"	"24"	"Black or African American"	"2054-5"	1830146
+	"2012"	"2012"	"Maryland"	"24"	"White"	"2106-3"	3638761
+"Total"	"2012"	"2012"	"Maryland"	"24"			5886992
+	"2012"	"2012"	"Massachusetts"	"25"	"American Indian or Alaska Native"	"1002-5"	36793
+	"2012"	"2012"	"Massachusetts"	"25"	"Asian or Pacific Islander"	"A-PI"	417621
+	"2012"	"2012"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	574911
+	"2012"	"2012"	"Massachusetts"	"25"	"White"	"2106-3"	5633680
+"Total"	"2012"	"2012"	"Massachusetts"	"25"			6663005
+	"2012"	"2012"	"Michigan"	"26"	"American Indian or Alaska Native"	"1002-5"	87510
+	"2012"	"2012"	"Michigan"	"26"	"Asian or Pacific Islander"	"A-PI"	290452
+	"2012"	"2012"	"Michigan"	"26"	"Black or African American"	"2054-5"	1487107
+	"2012"	"2012"	"Michigan"	"26"	"White"	"2106-3"	8032076
+"Total"	"2012"	"2012"	"Michigan"	"26"			9897145
+	"2012"	"2012"	"Minnesota"	"27"	"American Indian or Alaska Native"	"1002-5"	81061
+	"2012"	"2012"	"Minnesota"	"27"	"Asian or Pacific Islander"	"A-PI"	252770
+	"2012"	"2012"	"Minnesota"	"27"	"Black or African American"	"2054-5"	334564
+	"2012"	"2012"	"Minnesota"	"27"	"White"	"2106-3"	4708248
+"Total"	"2012"	"2012"	"Minnesota"	"27"			5376643
+	"2012"	"2012"	"Mississippi"	"28"	"American Indian or Alaska Native"	"1002-5"	18003
+	"2012"	"2012"	"Mississippi"	"28"	"Asian or Pacific Islander"	"A-PI"	32001
+	"2012"	"2012"	"Mississippi"	"28"	"Black or African American"	"2054-5"	1127644
+	"2012"	"2012"	"Mississippi"	"28"	"White"	"2106-3"	1806168
+"Total"	"2012"	"2012"	"Mississippi"	"28"			2983816
+	"2012"	"2012"	"Missouri"	"29"	"American Indian or Alaska Native"	"1002-5"	40294
+	"2012"	"2012"	"Missouri"	"29"	"Asian or Pacific Islander"	"A-PI"	126309
+	"2012"	"2012"	"Missouri"	"29"	"Black or African American"	"2054-5"	745146
+	"2012"	"2012"	"Missouri"	"29"	"White"	"2106-3"	5112618
+"Total"	"2012"	"2012"	"Missouri"	"29"			6024367
+	"2012"	"2012"	"Montana"	"30"	"American Indian or Alaska Native"	"1002-5"	71771
+	"2012"	"2012"	"Montana"	"30"	"Asian or Pacific Islander"	"A-PI"	8979
+	"2012"	"2012"	"Montana"	"30"	"Black or African American"	"2054-5"	8569
+	"2012"	"2012"	"Montana"	"30"	"White"	"2106-3"	914464
+"Total"	"2012"	"2012"	"Montana"	"30"			1003783
+	"2012"	"2012"	"Nebraska"	"31"	"American Indian or Alaska Native"	"1002-5"	27394
+	"2012"	"2012"	"Nebraska"	"31"	"Asian or Pacific Islander"	"A-PI"	42088
+	"2012"	"2012"	"Nebraska"	"31"	"Black or African American"	"2054-5"	100240
+	"2012"	"2012"	"Nebraska"	"31"	"White"	"2106-3"	1683581
+"Total"	"2012"	"2012"	"Nebraska"	"31"			1853303
+	"2012"	"2012"	"Nevada"	"32"	"American Indian or Alaska Native"	"1002-5"	51312
+	"2012"	"2012"	"Nevada"	"32"	"Asian or Pacific Islander"	"A-PI"	255128
+	"2012"	"2012"	"Nevada"	"32"	"Black or African American"	"2054-5"	270525
+	"2012"	"2012"	"Nevada"	"32"	"White"	"2106-3"	2167031
+"Total"	"2012"	"2012"	"Nevada"	"32"			2743996
+	"2012"	"2012"	"New Hampshire"	"33"	"American Indian or Alaska Native"	"1002-5"	4722
+	"2012"	"2012"	"New Hampshire"	"33"	"Asian or Pacific Islander"	"A-PI"	35359
+	"2012"	"2012"	"New Hampshire"	"33"	"Black or African American"	"2054-5"	22017
+	"2012"	"2012"	"New Hampshire"	"33"	"White"	"2106-3"	1262134
+"Total"	"2012"	"2012"	"New Hampshire"	"33"			1324232
+	"2012"	"2012"	"New Jersey"	"34"	"American Indian or Alaska Native"	"1002-5"	59875
+	"2012"	"2012"	"New Jersey"	"34"	"Asian or Pacific Islander"	"A-PI"	819848
+	"2012"	"2012"	"New Jersey"	"34"	"Black or African American"	"2054-5"	1354246
+	"2012"	"2012"	"New Jersey"	"34"	"White"	"2106-3"	6610973
+"Total"	"2012"	"2012"	"New Jersey"	"34"			8844942
+	"2012"	"2012"	"New Mexico"	"35"	"American Indian or Alaska Native"	"1002-5"	227398
+	"2012"	"2012"	"New Mexico"	"35"	"Asian or Pacific Islander"	"A-PI"	40994
+	"2012"	"2012"	"New Mexico"	"35"	"Black or African American"	"2054-5"	59801
+	"2012"	"2012"	"New Mexico"	"35"	"White"	"2106-3"	1759116
+"Total"	"2012"	"2012"	"New Mexico"	"35"			2087309
+	"2012"	"2012"	"New York"	"36"	"American Indian or Alaska Native"	"1002-5"	219466
+	"2012"	"2012"	"New York"	"36"	"Asian or Pacific Islander"	"A-PI"	1650377
+	"2012"	"2012"	"New York"	"36"	"Black or African American"	"2054-5"	3583150
+	"2012"	"2012"	"New York"	"36"	"White"	"2106-3"	14119939
+"Total"	"2012"	"2012"	"New York"	"36"			19572932
+	"2012"	"2012"	"North Carolina"	"37"	"American Indian or Alaska Native"	"1002-5"	161588
+	"2012"	"2012"	"North Carolina"	"37"	"Asian or Pacific Islander"	"A-PI"	268686
+	"2012"	"2012"	"North Carolina"	"37"	"Black or African American"	"2054-5"	2217702
+	"2012"	"2012"	"North Carolina"	"37"	"White"	"2106-3"	7101500
+"Total"	"2012"	"2012"	"North Carolina"	"37"			9749476
+	"2012"	"2012"	"North Dakota"	"38"	"American Indian or Alaska Native"	"1002-5"	41220
+	"2012"	"2012"	"North Dakota"	"38"	"Asian or Pacific Islander"	"A-PI"	9420
+	"2012"	"2012"	"North Dakota"	"38"	"Black or African American"	"2054-5"	13147
+	"2012"	"2012"	"North Dakota"	"38"	"White"	"2106-3"	637389
+"Total"	"2012"	"2012"	"North Dakota"	"38"			701176
+	"2012"	"2012"	"Ohio"	"39"	"American Indian or Alaska Native"	"1002-5"	39940
+	"2012"	"2012"	"Ohio"	"39"	"Asian or Pacific Islander"	"A-PI"	237052
+	"2012"	"2012"	"Ohio"	"39"	"Black or African American"	"2054-5"	1534115
+	"2012"	"2012"	"Ohio"	"39"	"White"	"2106-3"	9737816
+"Total"	"2012"	"2012"	"Ohio"	"39"			11548923
+	"2012"	"2012"	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	398848
+	"2012"	"2012"	"Oklahoma"	"40"	"Asian or Pacific Islander"	"A-PI"	88032
+	"2012"	"2012"	"Oklahoma"	"40"	"Black or African American"	"2054-5"	329207
+	"2012"	"2012"	"Oklahoma"	"40"	"White"	"2106-3"	3002727
+"Total"	"2012"	"2012"	"Oklahoma"	"40"			3818814
+	"2012"	"2012"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	84353
+	"2012"	"2012"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	194794
+	"2012"	"2012"	"Oregon"	"41"	"Black or African American"	"2054-5"	99354
+	"2012"	"2012"	"Oregon"	"41"	"White"	"2106-3"	3520500
+"Total"	"2012"	"2012"	"Oregon"	"41"			3899001
+	"2012"	"2012"	"Pennsylvania"	"42"	"American Indian or Alaska Native"	"1002-5"	50190
+	"2012"	"2012"	"Pennsylvania"	"42"	"Asian or Pacific Islander"	"A-PI"	414900
+	"2012"	"2012"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	1546911
+	"2012"	"2012"	"Pennsylvania"	"42"	"White"	"2106-3"	10755117
+"Total"	"2012"	"2012"	"Pennsylvania"	"42"			12767118
+	"2012"	"2012"	"Rhode Island"	"44"	"American Indian or Alaska Native"	"1002-5"	11170
+	"2012"	"2012"	"Rhode Island"	"44"	"Asian or Pacific Islander"	"A-PI"	38455
+	"2012"	"2012"	"Rhode Island"	"44"	"Black or African American"	"2054-5"	88330
+	"2012"	"2012"	"Rhode Island"	"44"	"White"	"2106-3"	916666
+"Total"	"2012"	"2012"	"Rhode Island"	"44"			1054621
+	"2012"	"2012"	"South Carolina"	"45"	"American Indian or Alaska Native"	"1002-5"	27472
+	"2012"	"2012"	"South Carolina"	"45"	"Asian or Pacific Islander"	"A-PI"	77486
+	"2012"	"2012"	"South Carolina"	"45"	"Black or African American"	"2054-5"	1350398
+	"2012"	"2012"	"South Carolina"	"45"	"White"	"2106-3"	3261998
+"Total"	"2012"	"2012"	"South Carolina"	"45"			4717354
+	"2012"	"2012"	"South Dakota"	"46"	"American Indian or Alaska Native"	"1002-5"	79782
+	"2012"	"2012"	"South Dakota"	"46"	"Asian or Pacific Islander"	"A-PI"	10891
+	"2012"	"2012"	"South Dakota"	"46"	"Black or African American"	"2054-5"	17048
+	"2012"	"2012"	"South Dakota"	"46"	"White"	"2106-3"	725845
+"Total"	"2012"	"2012"	"South Dakota"	"46"			833566
+	"2012"	"2012"	"Tennessee"	"47"	"American Indian or Alaska Native"	"1002-5"	29743
+	"2012"	"2012"	"Tennessee"	"47"	"Asian or Pacific Islander"	"A-PI"	117433
+	"2012"	"2012"	"Tennessee"	"47"	"Black or African American"	"2054-5"	1130168
+	"2012"	"2012"	"Tennessee"	"47"	"White"	"2106-3"	5176554
+"Total"	"2012"	"2012"	"Tennessee"	"47"			6453898
+	"2012"	"2012"	"Texas"	"48"	"American Indian or Alaska Native"	"1002-5"	287067
+	"2012"	"2012"	"Texas"	"48"	"Asian or Pacific Islander"	"A-PI"	1201999
+	"2012"	"2012"	"Texas"	"48"	"Black or African American"	"2054-5"	3305462
+	"2012"	"2012"	"Texas"	"48"	"White"	"2106-3"	21289953
+"Total"	"2012"	"2012"	"Texas"	"48"			26084481
+	"2012"	"2012"	"Utah"	"49"	"American Indian or Alaska Native"	"1002-5"	48261
+	"2012"	"2012"	"Utah"	"49"	"Asian or Pacific Islander"	"A-PI"	102432
+	"2012"	"2012"	"Utah"	"49"	"Black or African American"	"2054-5"	45695
+	"2012"	"2012"	"Utah"	"49"	"White"	"2106-3"	2656987
+"Total"	"2012"	"2012"	"Utah"	"49"			2853375
+	"2012"	"2012"	"Vermont"	"50"	"American Indian or Alaska Native"	"1002-5"	3053
+	"2012"	"2012"	"Vermont"	"50"	"Asian or Pacific Islander"	"A-PI"	9672
+	"2012"	"2012"	"Vermont"	"50"	"Black or African American"	"2054-5"	9167
+	"2012"	"2012"	"Vermont"	"50"	"White"	"2106-3"	604198
+"Total"	"2012"	"2012"	"Vermont"	"50"			626090
+	"2012"	"2012"	"Virginia"	"51"	"American Indian or Alaska Native"	"1002-5"	47628
+	"2012"	"2012"	"Virginia"	"51"	"Asian or Pacific Islander"	"A-PI"	533105
+	"2012"	"2012"	"Virginia"	"51"	"Black or African American"	"2054-5"	1676569
+	"2012"	"2012"	"Virginia"	"51"	"White"	"2106-3"	5927778
+"Total"	"2012"	"2012"	"Virginia"	"51"			8185080
+	"2012"	"2012"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	154932
+	"2012"	"2012"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	635342
+	"2012"	"2012"	"Washington"	"53"	"Black or African American"	"2054-5"	334428
+	"2012"	"2012"	"Washington"	"53"	"White"	"2106-3"	5772356
+"Total"	"2012"	"2012"	"Washington"	"53"			6897058
+	"2012"	"2012"	"West Virginia"	"54"	"American Indian or Alaska Native"	"1002-5"	4361
+	"2012"	"2012"	"West Virginia"	"54"	"Asian or Pacific Islander"	"A-PI"	15889
+	"2012"	"2012"	"West Virginia"	"54"	"Black or African American"	"2054-5"	73044
+	"2012"	"2012"	"West Virginia"	"54"	"White"	"2106-3"	1763578
+"Total"	"2012"	"2012"	"West Virginia"	"54"			1856872
+	"2012"	"2012"	"Wisconsin"	"55"	"American Indian or Alaska Native"	"1002-5"	70198
+	"2012"	"2012"	"Wisconsin"	"55"	"Asian or Pacific Islander"	"A-PI"	152995
+	"2012"	"2012"	"Wisconsin"	"55"	"Black or African American"	"2054-5"	404501
+	"2012"	"2012"	"Wisconsin"	"55"	"White"	"2106-3"	5092266
+"Total"	"2012"	"2012"	"Wisconsin"	"55"			5719960
+	"2012"	"2012"	"Wyoming"	"56"	"American Indian or Alaska Native"	"1002-5"	16569
+	"2012"	"2012"	"Wyoming"	"56"	"Asian or Pacific Islander"	"A-PI"	6370
+	"2012"	"2012"	"Wyoming"	"56"	"Black or African American"	"2054-5"	9742
+	"2012"	"2012"	"Wyoming"	"56"	"White"	"2106-3"	543624
+"Total"	"2012"	"2012"	"Wyoming"	"56"			576305
+"Total"	"2012"	"2012"					313196066
+	"2016"	"2016"	"Alabama"	"01"	"American Indian or Alaska Native"	"1002-5"	36847
+	"2016"	"2016"	"Alabama"	"01"	"Asian or Pacific Islander"	"A-PI"	80027
+	"2016"	"2016"	"Alabama"	"01"	"Black or African American"	"2054-5"	1327937
+	"2016"	"2016"	"Alabama"	"01"	"White"	"2106-3"	3418714
+"Total"	"2016"	"2016"	"Alabama"	"01"			4863525
+	"2016"	"2016"	"Alaska"	"02"	"American Indian or Alaska Native"	"1002-5"	127667
+	"2016"	"2016"	"Alaska"	"02"	"Asian or Pacific Islander"	"A-PI"	61798
+	"2016"	"2016"	"Alaska"	"02"	"Black or African American"	"2054-5"	35879
+	"2016"	"2016"	"Alaska"	"02"	"White"	"2106-3"	516112
+"Total"	"2016"	"2016"	"Alaska"	"02"			741456
+	"2016"	"2016"	"Arizona"	"04"	"American Indian or Alaska Native"	"1002-5"	396308
+	"2016"	"2016"	"Arizona"	"04"	"Asian or Pacific Islander"	"A-PI"	289908
+	"2016"	"2016"	"Arizona"	"04"	"Black or African American"	"2054-5"	386497
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	5868359
+"Total"	"2016"	"2016"	"Arizona"	"04"			6941072
+	"2016"	"2016"	"Arkansas"	"05"	"American Indian or Alaska Native"	"1002-5"	32470
+	"2016"	"2016"	"Arkansas"	"05"	"Asian or Pacific Islander"	"A-PI"	61784
+	"2016"	"2016"	"Arkansas"	"05"	"Black or African American"	"2054-5"	485205
+	"2016"	"2016"	"Arkansas"	"05"	"White"	"2106-3"	2410459
+"Total"	"2016"	"2016"	"Arkansas"	"05"			2989918
+	"2016"	"2016"	"California"	"06"	"American Indian or Alaska Native"	"1002-5"	765961
+	"2016"	"2016"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	6357089
+	"2016"	"2016"	"California"	"06"	"Black or African American"	"2054-5"	2817388
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	29226679
+"Total"	"2016"	"2016"	"California"	"06"			39167117
+	"2016"	"2016"	"Colorado"	"08"	"American Indian or Alaska Native"	"1002-5"	104720
+	"2016"	"2016"	"Colorado"	"08"	"Asian or Pacific Islander"	"A-PI"	216995
+	"2016"	"2016"	"Colorado"	"08"	"Black or African American"	"2054-5"	289999
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	4927501
+"Total"	"2016"	"2016"	"Colorado"	"08"			5539215
+	"2016"	"2016"	"Connecticut"	"09"	"American Indian or Alaska Native"	"1002-5"	22658
+	"2016"	"2016"	"Connecticut"	"09"	"Asian or Pacific Islander"	"A-PI"	178816
+	"2016"	"2016"	"Connecticut"	"09"	"Black or African American"	"2054-5"	447421
+	"2016"	"2016"	"Connecticut"	"09"	"White"	"2106-3"	2929246
+"Total"	"2016"	"2016"	"Connecticut"	"09"			3578141
+	"2016"	"2016"	"Delaware"	"10"	"American Indian or Alaska Native"	"1002-5"	6740
+	"2016"	"2016"	"Delaware"	"10"	"Asian or Pacific Islander"	"A-PI"	40485
+	"2016"	"2016"	"Delaware"	"10"	"Black or African American"	"2054-5"	225435
+	"2016"	"2016"	"Delaware"	"10"	"White"	"2106-3"	676261
+"Total"	"2016"	"2016"	"Delaware"	"10"			948921
+	"2016"	"2016"	"Florida"	"12"	"American Indian or Alaska Native"	"1002-5"	113689
+	"2016"	"2016"	"Florida"	"12"	"Asian or Pacific Islander"	"A-PI"	666110
+	"2016"	"2016"	"Florida"	"12"	"Black or African American"	"2054-5"	3598428
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	16235250
+"Total"	"2016"	"2016"	"Florida"	"12"			20613477
+	"2016"	"2016"	"Georgia"	"13"	"American Indian or Alaska Native"	"1002-5"	58911
+	"2016"	"2016"	"Georgia"	"13"	"Asian or Pacific Islander"	"A-PI"	455827
+	"2016"	"2016"	"Georgia"	"13"	"Black or African American"	"2054-5"	3381419
+	"2016"	"2016"	"Georgia"	"13"	"White"	"2106-3"	6405733
+"Total"	"2016"	"2016"	"Georgia"	"13"			10301890
+	"2016"	"2016"	"Hawaii"	"15"	"American Indian or Alaska Native"	"1002-5"	6520
+	"2016"	"2016"	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	940275
+	"2016"	"2016"	"Hawaii"	"15"	"Black or African American"	"2054-5"	42831
+	"2016"	"2016"	"Hawaii"	"15"	"White"	"2106-3"	437933
+"Total"	"2016"	"2016"	"Hawaii"	"15"			1427559
+	"2016"	"2016"	"Idaho"	"16"	"American Indian or Alaska Native"	"1002-5"	34174
+	"2016"	"2016"	"Idaho"	"16"	"Asian or Pacific Islander"	"A-PI"	33030
+	"2016"	"2016"	"Idaho"	"16"	"Black or African American"	"2054-5"	20246
+	"2016"	"2016"	"Idaho"	"16"	"White"	"2106-3"	1594930
+"Total"	"2016"	"2016"	"Idaho"	"16"			1682380
+	"2016"	"2016"	"Illinois"	"17"	"American Indian or Alaska Native"	"1002-5"	87616
+	"2016"	"2016"	"Illinois"	"17"	"Asian or Pacific Islander"	"A-PI"	758031
+	"2016"	"2016"	"Illinois"	"17"	"Black or African American"	"2054-5"	1955394
+	"2016"	"2016"	"Illinois"	"17"	"White"	"2106-3"	10019486
+"Total"	"2016"	"2016"	"Illinois"	"17"			12820527
+	"2016"	"2016"	"Indiana"	"18"	"American Indian or Alaska Native"	"1002-5"	31488
+	"2016"	"2016"	"Indiana"	"18"	"Asian or Pacific Islander"	"A-PI"	165164
+	"2016"	"2016"	"Indiana"	"18"	"Black or African American"	"2054-5"	693776
+	"2016"	"2016"	"Indiana"	"18"	"White"	"2106-3"	5743876
+"Total"	"2016"	"2016"	"Indiana"	"18"			6634304
+	"2016"	"2016"	"Iowa"	"19"	"American Indian or Alaska Native"	"1002-5"	18203
+	"2016"	"2016"	"Iowa"	"19"	"Asian or Pacific Islander"	"A-PI"	86068
+	"2016"	"2016"	"Iowa"	"19"	"Black or African American"	"2054-5"	136767
+	"2016"	"2016"	"Iowa"	"19"	"White"	"2106-3"	2890333
+"Total"	"2016"	"2016"	"Iowa"	"19"			3131371
+	"2016"	"2016"	"Kansas"	"20"	"American Indian or Alaska Native"	"1002-5"	42115
+	"2016"	"2016"	"Kansas"	"20"	"Asian or Pacific Islander"	"A-PI"	99093
+	"2016"	"2016"	"Kansas"	"20"	"Black or African American"	"2054-5"	206390
+	"2016"	"2016"	"Kansas"	"20"	"White"	"2106-3"	2563246
+"Total"	"2016"	"2016"	"Kansas"	"20"			2910844
+	"2016"	"2016"	"Kentucky"	"21"	"American Indian or Alaska Native"	"1002-5"	14007
+	"2016"	"2016"	"Kentucky"	"21"	"Asian or Pacific Islander"	"A-PI"	76344
+	"2016"	"2016"	"Kentucky"	"21"	"Black or African American"	"2054-5"	395017
+	"2016"	"2016"	"Kentucky"	"21"	"White"	"2106-3"	3952814
+"Total"	"2016"	"2016"	"Kentucky"	"21"			4438182
+	"2016"	"2016"	"Louisiana"	"22"	"American Indian or Alaska Native"	"1002-5"	39456
+	"2016"	"2016"	"Louisiana"	"22"	"Asian or Pacific Islander"	"A-PI"	92336
+	"2016"	"2016"	"Louisiana"	"22"	"Black or African American"	"2054-5"	1554239
+	"2016"	"2016"	"Louisiana"	"22"	"White"	"2106-3"	2992104
+"Total"	"2016"	"2016"	"Louisiana"	"22"			4678135
+	"2016"	"2016"	"Maine"	"23"	"American Indian or Alaska Native"	"1002-5"	11142
+	"2016"	"2016"	"Maine"	"23"	"Asian or Pacific Islander"	"A-PI"	18168
+	"2016"	"2016"	"Maine"	"23"	"Black or African American"	"2054-5"	25009
+	"2016"	"2016"	"Maine"	"23"	"White"	"2106-3"	1276998
+"Total"	"2016"	"2016"	"Maine"	"23"			1331317
+	"2016"	"2016"	"Maryland"	"24"	"American Indian or Alaska Native"	"1002-5"	40705
+	"2016"	"2016"	"Maryland"	"24"	"Asian or Pacific Islander"	"A-PI"	421033
+	"2016"	"2016"	"Maryland"	"24"	"Black or African American"	"2054-5"	1903506
+	"2016"	"2016"	"Maryland"	"24"	"White"	"2106-3"	3638079
+"Total"	"2016"	"2016"	"Maryland"	"24"			6003323
+	"2016"	"2016"	"Massachusetts"	"25"	"American Indian or Alaska Native"	"1002-5"	39035
+	"2016"	"2016"	"Massachusetts"	"25"	"Asian or Pacific Islander"	"A-PI"	483860
+	"2016"	"2016"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	637537
+	"2016"	"2016"	"Massachusetts"	"25"	"White"	"2106-3"	5663176
+"Total"	"2016"	"2016"	"Massachusetts"	"25"			6823608
+	"2016"	"2016"	"Michigan"	"26"	"American Indian or Alaska Native"	"1002-5"	90255
+	"2016"	"2016"	"Michigan"	"26"	"Asian or Pacific Islander"	"A-PI"	340300
+	"2016"	"2016"	"Michigan"	"26"	"Black or African American"	"2054-5"	1490152
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	8029864
+"Total"	"2016"	"2016"	"Michigan"	"26"			9950571
+	"2016"	"2016"	"Minnesota"	"27"	"American Indian or Alaska Native"	"1002-5"	85949
+	"2016"	"2016"	"Minnesota"	"27"	"Asian or Pacific Islander"	"A-PI"	289699
+	"2016"	"2016"	"Minnesota"	"27"	"Black or African American"	"2054-5"	392458
+	"2016"	"2016"	"Minnesota"	"27"	"White"	"2106-3"	4754638
+"Total"	"2016"	"2016"	"Minnesota"	"27"			5522744
+	"2016"	"2016"	"Mississippi"	"28"	"American Indian or Alaska Native"	"1002-5"	18970
+	"2016"	"2016"	"Mississippi"	"28"	"Asian or Pacific Islander"	"A-PI"	35437
+	"2016"	"2016"	"Mississippi"	"28"	"Black or African American"	"2054-5"	1142171
+	"2016"	"2016"	"Mississippi"	"28"	"White"	"2106-3"	1791360
+"Total"	"2016"	"2016"	"Mississippi"	"28"			2987938
+	"2016"	"2016"	"Missouri"	"29"	"American Indian or Alaska Native"	"1002-5"	43115
+	"2016"	"2016"	"Missouri"	"29"	"Asian or Pacific Islander"	"A-PI"	142012
+	"2016"	"2016"	"Missouri"	"29"	"Black or African American"	"2054-5"	764069
+	"2016"	"2016"	"Missouri"	"29"	"White"	"2106-3"	5137939
+"Total"	"2016"	"2016"	"Missouri"	"29"			6087135
+	"2016"	"2016"	"Montana"	"30"	"American Indian or Alaska Native"	"1002-5"	75964
+	"2016"	"2016"	"Montana"	"30"	"Asian or Pacific Islander"	"A-PI"	11158
+	"2016"	"2016"	"Montana"	"30"	"Black or African American"	"2054-5"	9643
+	"2016"	"2016"	"Montana"	"30"	"White"	"2106-3"	944094
+"Total"	"2016"	"2016"	"Montana"	"30"			1040859
+	"2016"	"2016"	"Nebraska"	"31"	"American Indian or Alaska Native"	"1002-5"	30775
+	"2016"	"2016"	"Nebraska"	"31"	"Asian or Pacific Islander"	"A-PI"	53306
+	"2016"	"2016"	"Nebraska"	"31"	"Black or African American"	"2054-5"	109659
+	"2016"	"2016"	"Nebraska"	"31"	"White"	"2106-3"	1711876
+"Total"	"2016"	"2016"	"Nebraska"	"31"			1905616
+	"2016"	"2016"	"Nevada"	"32"	"American Indian or Alaska Native"	"1002-5"	56352
+	"2016"	"2016"	"Nevada"	"32"	"Asian or Pacific Islander"	"A-PI"	292336
+	"2016"	"2016"	"Nevada"	"32"	"Black or African American"	"2054-5"	312985
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	2255890
+"Total"	"2016"	"2016"	"Nevada"	"32"			2917563
+	"2016"	"2016"	"New Hampshire"	"33"	"American Indian or Alaska Native"	"1002-5"	5013
+	"2016"	"2016"	"New Hampshire"	"33"	"Asian or Pacific Islander"	"A-PI"	41656
+	"2016"	"2016"	"New Hampshire"	"33"	"Black or African American"	"2054-5"	25896
+	"2016"	"2016"	"New Hampshire"	"33"	"White"	"2106-3"	1269742
+"Total"	"2016"	"2016"	"New Hampshire"	"33"			1342307
+	"2016"	"2016"	"New Jersey"	"34"	"American Indian or Alaska Native"	"1002-5"	61822
+	"2016"	"2016"	"New Jersey"	"34"	"Asian or Pacific Islander"	"A-PI"	884718
+	"2016"	"2016"	"New Jersey"	"34"	"Black or African American"	"2054-5"	1386227
+	"2016"	"2016"	"New Jersey"	"34"	"White"	"2106-3"	6538060
+"Total"	"2016"	"2016"	"New Jersey"	"34"			8870827
+	"2016"	"2016"	"New Mexico"	"35"	"American Indian or Alaska Native"	"1002-5"	239137
+	"2016"	"2016"	"New Mexico"	"35"	"Asian or Pacific Islander"	"A-PI"	43710
+	"2016"	"2016"	"New Mexico"	"35"	"Black or African American"	"2054-5"	63019
+	"2016"	"2016"	"New Mexico"	"35"	"White"	"2106-3"	1745764
+"Total"	"2016"	"2016"	"New Mexico"	"35"			2091630
+	"2016"	"2016"	"New York"	"36"	"American Indian or Alaska Native"	"1002-5"	223387
+	"2016"	"2016"	"New York"	"36"	"Asian or Pacific Islander"	"A-PI"	1795807
+	"2016"	"2016"	"New York"	"36"	"Black or African American"	"2054-5"	3631433
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	13982801
+"Total"	"2016"	"2016"	"New York"	"36"			19633428
+	"2016"	"2016"	"North Carolina"	"37"	"American Indian or Alaska Native"	"1002-5"	170438
+	"2016"	"2016"	"North Carolina"	"37"	"Asian or Pacific Islander"	"A-PI"	328820
+	"2016"	"2016"	"North Carolina"	"37"	"Black or African American"	"2054-5"	2335388
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	7320142
+"Total"	"2016"	"2016"	"North Carolina"	"37"			10154788
+	"2016"	"2016"	"North Dakota"	"38"	"American Indian or Alaska Native"	"1002-5"	44978
+	"2016"	"2016"	"North Dakota"	"38"	"Asian or Pacific Islander"	"A-PI"	12899
+	"2016"	"2016"	"North Dakota"	"38"	"Black or African American"	"2054-5"	25356
+	"2016"	"2016"	"North Dakota"	"38"	"White"	"2106-3"	671201
+"Total"	"2016"	"2016"	"North Dakota"	"38"			754434
+	"2016"	"2016"	"Ohio"	"39"	"American Indian or Alaska Native"	"1002-5"	42519
+	"2016"	"2016"	"Ohio"	"39"	"Asian or Pacific Islander"	"A-PI"	289651
+	"2016"	"2016"	"Ohio"	"39"	"Black or African American"	"2054-5"	1598390
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	9703810
+"Total"	"2016"	"2016"	"Ohio"	"39"			11634370
+	"2016"	"2016"	"Oklahoma"	"40"	"American Indian or Alaska Native"	"1002-5"	419027
+	"2016"	"2016"	"Oklahoma"	"40"	"Asian or Pacific Islander"	"A-PI"	105117
+	"2016"	"2016"	"Oklahoma"	"40"	"Black or African American"	"2054-5"	347595
+	"2016"	"2016"	"Oklahoma"	"40"	"White"	"2106-3"	3054592
+"Total"	"2016"	"2016"	"Oklahoma"	"40"			3926331
+	"2016"	"2016"	"Oregon"	"41"	"American Indian or Alaska Native"	"1002-5"	90023
+	"2016"	"2016"	"Oregon"	"41"	"Asian or Pacific Islander"	"A-PI"	229355
+	"2016"	"2016"	"Oregon"	"41"	"Black or African American"	"2054-5"	112812
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	3657786
+"Total"	"2016"	"2016"	"Oregon"	"41"			4089976
+	"2016"	"2016"	"Pennsylvania"	"42"	"American Indian or Alaska Native"	"1002-5"	55741
+	"2016"	"2016"	"Pennsylvania"	"42"	"Asian or Pacific Islander"	"A-PI"	473709
+	"2016"	"2016"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	1603361
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	10649464
+"Total"	"2016"	"2016"	"Pennsylvania"	"42"			12782275
+	"2016"	"2016"	"Rhode Island"	"44"	"American Indian or Alaska Native"	"1002-5"	12247
+	"2016"	"2016"	"Rhode Island"	"44"	"Asian or Pacific Islander"	"A-PI"	42171
+	"2016"	"2016"	"Rhode Island"	"44"	"Black or African American"	"2054-5"	96118
+	"2016"	"2016"	"Rhode Island"	"44"	"White"	"2106-3"	906234
+"Total"	"2016"	"2016"	"Rhode Island"	"44"			1056770
+	"2016"	"2016"	"South Carolina"	"45"	"American Indian or Alaska Native"	"1002-5"	29415
+	"2016"	"2016"	"South Carolina"	"45"	"Asian or Pacific Islander"	"A-PI"	93338
+	"2016"	"2016"	"South Carolina"	"45"	"Black or African American"	"2054-5"	1397385
+	"2016"	"2016"	"South Carolina"	"45"	"White"	"2106-3"	3437830
+"Total"	"2016"	"2016"	"South Carolina"	"45"			4957968
+	"2016"	"2016"	"South Dakota"	"46"	"American Indian or Alaska Native"	"1002-5"	83915
+	"2016"	"2016"	"South Dakota"	"46"	"Asian or Pacific Islander"	"A-PI"	14117
+	"2016"	"2016"	"South Dakota"	"46"	"Black or African American"	"2054-5"	21564
+	"2016"	"2016"	"South Dakota"	"46"	"White"	"2106-3"	743400
+"Total"	"2016"	"2016"	"South Dakota"	"46"			862996
+	"2016"	"2016"	"Tennessee"	"47"	"American Indian or Alaska Native"	"1002-5"	32536
+	"2016"	"2016"	"Tennessee"	"47"	"Asian or Pacific Islander"	"A-PI"	135223
+	"2016"	"2016"	"Tennessee"	"47"	"Black or African American"	"2054-5"	1175339
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	5302912
+"Total"	"2016"	"2016"	"Tennessee"	"47"			6646010
+	"2016"	"2016"	"Texas"	"48"	"American Indian or Alaska Native"	"1002-5"	310170
+	"2016"	"2016"	"Texas"	"48"	"Asian or Pacific Islander"	"A-PI"	1479871
+	"2016"	"2016"	"Texas"	"48"	"Black or African American"	"2054-5"	3638427
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	22485942
+"Total"	"2016"	"2016"	"Texas"	"48"			27914410
+	"2016"	"2016"	"Utah"	"49"	"American Indian or Alaska Native"	"1002-5"	52923
+	"2016"	"2016"	"Utah"	"49"	"Asian or Pacific Islander"	"A-PI"	119152
+	"2016"	"2016"	"Utah"	"49"	"Black or African American"	"2054-5"	52857
+	"2016"	"2016"	"Utah"	"49"	"White"	"2106-3"	2816936
+"Total"	"2016"	"2016"	"Utah"	"49"			3041868
+	"2016"	"2016"	"Vermont"	"50"	"American Indian or Alaska Native"	"1002-5"	3117
+	"2016"	"2016"	"Vermont"	"50"	"Asian or Pacific Islander"	"A-PI"	11873
+	"2016"	"2016"	"Vermont"	"50"	"Black or African American"	"2054-5"	10502
+	"2016"	"2016"	"Vermont"	"50"	"White"	"2106-3"	598165
+"Total"	"2016"	"2016"	"Vermont"	"50"			623657
+	"2016"	"2016"	"Virginia"	"51"	"American Indian or Alaska Native"	"1002-5"	50206
+	"2016"	"2016"	"Virginia"	"51"	"Asian or Pacific Islander"	"A-PI"	606553
+	"2016"	"2016"	"Virginia"	"51"	"Black or African American"	"2054-5"	1739928
+	"2016"	"2016"	"Virginia"	"51"	"White"	"2106-3"	6013419
+"Total"	"2016"	"2016"	"Virginia"	"51"			8410106
+	"2016"	"2016"	"Washington"	"53"	"American Indian or Alaska Native"	"1002-5"	168069
+	"2016"	"2016"	"Washington"	"53"	"Asian or Pacific Islander"	"A-PI"	751842
+	"2016"	"2016"	"Washington"	"53"	"Black or African American"	"2054-5"	376423
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	5998437
+"Total"	"2016"	"2016"	"Washington"	"53"			7294771
+	"2016"	"2016"	"West Virginia"	"54"	"American Indian or Alaska Native"	"1002-5"	4660
+	"2016"	"2016"	"West Virginia"	"54"	"Asian or Pacific Islander"	"A-PI"	17423
+	"2016"	"2016"	"West Virginia"	"54"	"Black or African American"	"2054-5"	74656
+	"2016"	"2016"	"West Virginia"	"54"	"White"	"2106-3"	1734284
+"Total"	"2016"	"2016"	"West Virginia"	"54"			1831023
+	"2016"	"2016"	"Wisconsin"	"55"	"American Indian or Alaska Native"	"1002-5"	74278
+	"2016"	"2016"	"Wisconsin"	"55"	"Asian or Pacific Islander"	"A-PI"	177952
+	"2016"	"2016"	"Wisconsin"	"55"	"Black or African American"	"2054-5"	419598
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	5100800
+"Total"	"2016"	"2016"	"Wisconsin"	"55"			5772628
+	"2016"	"2016"	"Wyoming"	"56"	"American Indian or Alaska Native"	"1002-5"	17380
+	"2016"	"2016"	"Wyoming"	"56"	"Asian or Pacific Islander"	"A-PI"	7137
+	"2016"	"2016"	"Wyoming"	"56"	"Black or African American"	"2054-5"	9819
+	"2016"	"2016"	"Wyoming"	"56"	"White"	"2106-3"	549879
+"Total"	"2016"	"2016"	"Wyoming"	"56"			584215
+"Total"	"2016"	"2016"					322255496
+"Total"							2037531767
+"---"
+"Dataset: Bridged-Race Population Estimates 1990-2019"
+"Query Parameters:"
+"Gender: Female; Male"
+"Race: American Indian or Alaska Native; Asian or Pacific Islander; Black or African American; White"
+"States: Alabama (01); Alaska (02); Arizona (04); Arkansas (05); California (06); Colorado (08); Connecticut (09); Delaware (10);"
+"Florida (12); Georgia (13); Hawaii (15); Idaho (16); Illinois (17); Indiana (18); Iowa (19); Kansas (20); Kentucky (21);"
+"Louisiana (22); Maine (23); Maryland (24); Massachusetts (25); Michigan (26); Minnesota (27); Mississippi (28); Missouri (29);"
+"Montana (30); Nebraska (31); Nevada (32); New Hampshire (33); New Jersey (34); New Mexico (35); New York (36); North Carolina"
+"(37); North Dakota (38); Ohio (39); Oklahoma (40); Oregon (41); Pennsylvania (42); Rhode Island (44); South Carolina (45); South"
+"Dakota (46); Tennessee (47); Texas (48); Utah (49); Vermont (50); Virginia (51); Washington (53); West Virginia (54); Wisconsin"
+"(55); Wyoming (56)"
+"Yearly July 1st Estimates: 1992; 1996; 2000; 2004; 2008; 2012; 2016"
+"Group By: Yearly July 1st Estimates; State; Race"
+"Show Totals: True"
+"Show Zero Values: False"
+"Data Table: Default"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/bridged-race.html for more information."
+"---"
+"Query Date: Nov 28, 2020 12:43:22 AM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Bridged-Race Population Estimates, United States July 1st resident"
+"population by state, county, age, sex, bridged-race, and Hispanic origin. Compiled from 1990-1999 bridged-race intercensal"
+"population estimates (released by NCHS on 7/26/2004); revised bridged-race 2000-2009 intercensal population estimates (released"
+"by NCHS on 10/26/2012); and bridged-race Vintage 2019 (2010-2019) postcensal population estimates (released by NCHS on"
+"7/9/2020). Available on CDC WONDER Online Database. Accessed at http://wonder.cdc.gov/bridged-race-v2019.html on Nov 28, 2020"
+"12:43:22 AM"
+"---"
+Footnotes:
+"1. Estimates for 1990-1999 are bridged-race intercensal population estimates of the July 1 resident population. Estimates for"
+"2000-2009 are revised bridged-race intercensal estimates of the July 1 resident population. Estimates for 2010-2019 are"
+"bridged-race Vintage 2019 postcensal estimates of the July 1 resident population. These estimates were prepared by the Census"
+"Bureau in collaboration with NCHS."
+"---"
+Caveats:
